@@ -1,0 +1,151 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "position": {
+          "y": -8,
+          "x": -2
+        },
+        "entity_number": 1,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": -8,
+          "x": 2
+        },
+        "entity_number": 2,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": -5,
+          "x": -2
+        },
+        "entity_number": 3,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": -5,
+          "x": 0
+        },
+        "entity_number": 4,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": -5,
+          "x": 2
+        },
+        "entity_number": 5,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -2
+        },
+        "entity_number": 6,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 2
+        },
+        "entity_number": 7,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -2
+        },
+        "entity_number": 8,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 2
+        },
+        "entity_number": 9,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": -2
+        },
+        "entity_number": 10,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": 2
+        },
+        "entity_number": 11,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": 0
+        },
+        "entity_number": 12,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": 7,
+          "x": -2
+        },
+        "entity_number": 13,
+        "name": "solar-panel"
+      },
+      {
+        "position": {
+          "y": 7,
+          "x": 2
+        },
+        "entity_number": 14,
+        "name": "solar-panel"
+      }
+    ],
+    "label": "Solar Panels x12",
+    "version": 68722819072,
+    "item": "blueprint",
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "item",
+          "name": "solar-panel"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "type": "item",
+          "name": "solar-panel"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "type": "item",
+          "name": "solar-panel"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "type": "item",
+          "name": "solar-panel"
+        }
+      }
+    ]
+  }
+}

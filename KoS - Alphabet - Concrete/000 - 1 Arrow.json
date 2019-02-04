@@ -1,0 +1,242 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "tiles": [
+      {
+        "position": {
+          "y": 0,
+          "x": -11
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -10
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -9
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -8
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -7
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -6
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -5
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -5,
+          "x": 5
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 5
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 5,
+          "x": 5
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 6
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 6
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": 6
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 7
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 7
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 7
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 8
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 8
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 8
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 9
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 9
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 9
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 10
+        },
+        "name": "concrete"
+      }
+    ],
+    "label": "1 Arrow",
+    "version": 68722819072,
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "virtual",
+          "name": "signal-A"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1333 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "position": {
+          "y": -4,
+          "x": -14
+        },
+        "entity_number": 1,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "type": "item",
+                "name": "electronic-circuit"
+              }
+            }
+          ]
+        },
+        "position": {
+          "y": -3,
+          "x": -14
+        },
+        "entity_number": 2,
+        "direction": 4,
+        "name": "constant-combinator"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -12
+        },
+        "entity_number": 3,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -12
+        },
+        "entity_number": 4,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -13
+        },
+        "entity_number": 5,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -13
+        },
+        "entity_number": 6,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -11
+        },
+        "entity_number": 7,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -10
+        },
+        "entity_number": 8,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -10
+        },
+        "entity_number": 9,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -11
+        },
+        "entity_number": 10,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -8
+        },
+        "entity_number": 11,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -9
+        },
+        "entity_number": 12,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -8
+        },
+        "entity_number": 13,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -9
+        },
+        "entity_number": 14,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -6
+        },
+        "entity_number": 15,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -6
+        },
+        "entity_number": 16,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -7
+        },
+        "entity_number": 17,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -7
+        },
+        "entity_number": 18,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -4
+        },
+        "entity_number": 19,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -4
+        },
+        "entity_number": 20,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -5
+        },
+        "entity_number": 21,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -5
+        },
+        "entity_number": 22,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -3
+        },
+        "entity_number": 23,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -3
+        },
+        "entity_number": 24,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -2
+        },
+        "entity_number": 25,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -2
+        },
+        "entity_number": 26,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -1
+        },
+        "entity_number": 27,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 0
+        },
+        "entity_number": 28,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 0
+        },
+        "entity_number": 29,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -1
+        },
+        "entity_number": 30,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 2
+        },
+        "entity_number": 31,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 1
+        },
+        "entity_number": 32,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 1
+        },
+        "entity_number": 33,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 2
+        },
+        "entity_number": 34,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 4
+        },
+        "entity_number": 35,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 4
+        },
+        "entity_number": 36,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 3
+        },
+        "entity_number": 37,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 3
+        },
+        "entity_number": 38,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 6
+        },
+        "entity_number": 39,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 5
+        },
+        "entity_number": 40,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 6
+        },
+        "entity_number": 41,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 5
+        },
+        "entity_number": 42,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 8
+        },
+        "entity_number": 43,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 8
+        },
+        "entity_number": 44,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 7
+        },
+        "entity_number": 45,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 7
+        },
+        "entity_number": 46,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 10
+        },
+        "entity_number": 47,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 9
+        },
+        "entity_number": 48,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 9
+        },
+        "entity_number": 49,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 10
+        },
+        "entity_number": 50,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 11
+        },
+        "entity_number": 51,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 11
+        },
+        "entity_number": 52,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 12
+        },
+        "entity_number": 53,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 12
+        },
+        "entity_number": 54,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 14
+        },
+        "entity_number": 55,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 14
+        },
+        "entity_number": 56,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": 13
+        },
+        "entity_number": 57,
+        "direction": 6,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 13
+        },
+        "entity_number": 58,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -12
+        },
+        "entity_number": 59,
+        "direction": 2,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -12
+        },
+        "entity_number": 60,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -11
+        },
+        "entity_number": 61,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -10
+        },
+        "entity_number": 62,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -8
+        },
+        "entity_number": 63,
+        "direction": 6,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -8
+        },
+        "entity_number": 64,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -9
+        },
+        "entity_number": 65,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -5
+        },
+        "entity_number": 66,
+        "direction": 2,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -5
+        },
+        "entity_number": 67,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -4
+        },
+        "entity_number": 68,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -1
+        },
+        "entity_number": 69,
+        "direction": 6,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -2
+        },
+        "entity_number": 70,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -3
+        },
+        "entity_number": 71,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -1
+        },
+        "entity_number": 72,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 2
+        },
+        "entity_number": 73,
+        "direction": 2,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 2
+        },
+        "entity_number": 74,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 3
+        },
+        "entity_number": 75,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 4
+        },
+        "entity_number": 76,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 6
+        },
+        "entity_number": 77,
+        "direction": 6,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 6
+        },
+        "entity_number": 78,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 5
+        },
+        "entity_number": 79,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 9
+        },
+        "entity_number": 80,
+        "direction": 2,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 10
+        },
+        "entity_number": 81,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 9
+        },
+        "entity_number": 82,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 13
+        },
+        "entity_number": 83,
+        "direction": 6,
+        "name": "assembling-machine-3",
+        "recipe": "processing-unit"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 12
+        },
+        "entity_number": 84,
+        "direction": 4,
+        "name": "long-handed-inserter"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 11
+        },
+        "entity_number": 85,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 13
+        },
+        "entity_number": 86,
+        "name": "fast-inserter"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -10
+        },
+        "entity_number": 87,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -10
+        },
+        "entity_number": 88,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -3
+        },
+        "entity_number": 89,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -3
+        },
+        "entity_number": 90,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 4
+        },
+        "entity_number": 91,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 4
+        },
+        "entity_number": 92,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 11
+        },
+        "entity_number": 93,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 11
+        },
+        "entity_number": 94,
+        "name": "pipe"
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "type": "fluid",
+                "name": "sulfuric-acid"
+              }
+            }
+          ]
+        },
+        "position": {
+          "y": 2,
+          "x": -14
+        },
+        "entity_number": 95,
+        "name": "constant-combinator"
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "type": "item",
+                "name": "advanced-circuit"
+              }
+            }
+          ]
+        },
+        "position": {
+          "y": 3,
+          "x": -14
+        },
+        "entity_number": 96,
+        "direction": 4,
+        "name": "constant-combinator"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -12
+        },
+        "entity_number": 97,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -12
+        },
+        "entity_number": 98,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -13
+        },
+        "entity_number": 99,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -10
+        },
+        "entity_number": 100,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -10
+        },
+        "entity_number": 101,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -11
+        },
+        "entity_number": 102,
+        "direction": 2,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -11
+        },
+        "entity_number": 103,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -8
+        },
+        "entity_number": 104,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -8
+        },
+        "entity_number": 105,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -9
+        },
+        "entity_number": 106,
+        "direction": 6,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -9
+        },
+        "entity_number": 107,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -6
+        },
+        "entity_number": 108,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -7
+        },
+        "entity_number": 109,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -5
+        },
+        "entity_number": 110,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -4
+        },
+        "entity_number": 111,
+        "direction": 2,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -5
+        },
+        "entity_number": 112,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -4
+        },
+        "entity_number": 113,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -2
+        },
+        "entity_number": 114,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -3
+        },
+        "entity_number": 115,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -2
+        },
+        "entity_number": 116,
+        "direction": 6,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -3
+        },
+        "entity_number": 117,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -1
+        },
+        "entity_number": 118,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": -1
+        },
+        "entity_number": 119,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 0
+        },
+        "entity_number": 120,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 2
+        },
+        "entity_number": 121,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 1
+        },
+        "entity_number": 122,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 2
+        },
+        "entity_number": 123,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 3
+        },
+        "entity_number": 124,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 4
+        },
+        "entity_number": 125,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 3
+        },
+        "entity_number": 126,
+        "direction": 2,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 4
+        },
+        "entity_number": 127,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 6
+        },
+        "entity_number": 128,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 5
+        },
+        "entity_number": 129,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 5
+        },
+        "entity_number": 130,
+        "direction": 6,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 6
+        },
+        "entity_number": 131,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 7
+        },
+        "entity_number": 132,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 8
+        },
+        "entity_number": 133,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 9
+        },
+        "entity_number": 134,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 10
+        },
+        "entity_number": 135,
+        "direction": 2,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 9
+        },
+        "entity_number": 136,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 10
+        },
+        "entity_number": 137,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 12
+        },
+        "entity_number": 138,
+        "direction": 6,
+        "name": "pipe-to-ground"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 12
+        },
+        "entity_number": 139,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 11
+        },
+        "entity_number": 140,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 11
+        },
+        "entity_number": 141,
+        "name": "pipe"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 14
+        },
+        "entity_number": 142,
+        "direction": 2,
+        "name": "transport-belt"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 13
+        },
+        "entity_number": 143,
+        "direction": 4,
+        "name": "inserter"
+      },
+      {
+        "position": {
+          "y": 3,
+          "x": 13
+        },
+        "entity_number": 144,
+        "direction": 2,
+        "name": "transport-belt"
+      }
+    ],
+    "label": "Blue Circuits Base Unit",
+    "version": 68722819072,
+    "item": "blueprint",
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "item",
+          "name": "processing-unit"
+        }
+      }
+    ]
+  }
+}

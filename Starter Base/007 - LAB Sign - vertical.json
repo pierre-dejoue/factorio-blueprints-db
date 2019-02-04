@@ -1,0 +1,305 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "tiles": [
+      {
+        "position": {
+          "y": -7,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -8,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -5,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -6,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -4,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 5,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 5,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 4,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 6,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 7,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 6,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 6,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 7,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 6,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 8,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 8,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 8,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 8,
+          "x": 1
+        },
+        "name": "concrete"
+      }
+    ],
+    "label": "LAB Sign - vertical",
+    "version": 68722819072,
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "virtual",
+          "name": "signal-L"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "type": "item",
+          "name": "concrete"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "type": "virtual",
+          "name": "signal-A"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "type": "virtual",
+          "name": "signal-B"
+        }
+      }
+    ]
+  }
+}

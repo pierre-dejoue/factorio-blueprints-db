@@ -1,0 +1,361 @@
+{
+  "blueprint": {
+    "item": "blueprint",
+    "tiles": [
+      {
+        "position": {
+          "y": -3,
+          "x": -4
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -4
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -4
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -3
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -3
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -2
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -2
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": -1
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": -1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": -1
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 0
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 0
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 0
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 1
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 1
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 1
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 2
+        },
+        "name": "hazard-concrete-left"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 2
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 2
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -3,
+          "x": 3
+        },
+        "name": "hazard-concrete-right"
+      },
+      {
+        "position": {
+          "y": -2,
+          "x": 3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": -1,
+          "x": 3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 1,
+          "x": 3
+        },
+        "name": "concrete"
+      },
+      {
+        "position": {
+          "y": 2,
+          "x": 3
+        },
+        "name": "hazard-concrete-left"
+      }
+    ],
+    "label": "Pathway - KoS Festive",
+    "version": 68722819072,
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "item",
+          "name": "concrete"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "type": "item",
+          "name": "hazard-concrete"
+        }
+      }
+    ]
+  }
+}

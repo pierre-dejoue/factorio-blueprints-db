@@ -1,0 +1,175 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "position": {
+          "y": -3.5,
+          "x": -3.5
+        },
+        "entity_number": 1,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -3.5,
+          "x": -1.5
+        },
+        "entity_number": 2,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -3.5,
+          "x": 1.5
+        },
+        "entity_number": 3,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -3.5,
+          "x": 3.5
+        },
+        "entity_number": 4,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -1.5,
+          "x": -3.5
+        },
+        "entity_number": 5,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -1.5,
+          "x": -1.5
+        },
+        "entity_number": 6,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -1.5,
+          "x": 1.5
+        },
+        "entity_number": 7,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": -1.5,
+          "x": 3.5
+        },
+        "entity_number": 8,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 0,
+          "x": 0
+        },
+        "entity_number": 9,
+        "name": "medium-electric-pole"
+      },
+      {
+        "position": {
+          "y": 1.5,
+          "x": -3.5
+        },
+        "entity_number": 10,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 1.5,
+          "x": -1.5
+        },
+        "entity_number": 11,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 1.5,
+          "x": 1.5
+        },
+        "entity_number": 12,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 1.5,
+          "x": 3.5
+        },
+        "entity_number": 13,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 3.5,
+          "x": -3.5
+        },
+        "entity_number": 14,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 3.5,
+          "x": -1.5
+        },
+        "entity_number": 15,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 3.5,
+          "x": 1.5
+        },
+        "entity_number": 16,
+        "name": "accumulator"
+      },
+      {
+        "position": {
+          "y": 3.5,
+          "x": 3.5
+        },
+        "entity_number": 17,
+        "name": "accumulator"
+      }
+    ],
+    "label": "Accumulators x16",
+    "version": 68722819072,
+    "item": "blueprint",
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "type": "item",
+          "name": "accumulator"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "type": "item",
+          "name": "medium-electric-pole"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "type": "item",
+          "name": "accumulator"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "type": "item",
+          "name": "accumulator"
+        }
+      }
+    ]
+  }
+}
