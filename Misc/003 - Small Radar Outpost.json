@@ -2,438 +2,438 @@
   "blueprint": {
     "entities": [
       {
-        "position": {
-          "y": -5,
-          "x": -5
-        },
         "entity_number": 1,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": -3
-        },
         "entity_number": 2,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -3,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": -4
-        },
         "entity_number": 3,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -4,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": -2
-        },
         "entity_number": 4,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -2,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": -1
-        },
         "entity_number": 5,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -1,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 0
-        },
         "entity_number": 6,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 0,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 1
-        },
         "entity_number": 7,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 1,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 2
-        },
         "entity_number": 8,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 2,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 3
-        },
         "entity_number": 9,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 3,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 4
-        },
         "entity_number": 10,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 4,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 5
-        },
         "entity_number": 11,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -5
-        },
         "entity_number": 12,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -5
-        },
         "entity_number": 13,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -3
-        },
         "entity_number": 14,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": -3,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 0
-        },
         "entity_number": 15,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": 0,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 3
-        },
         "entity_number": 16,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": 3,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 5
-        },
         "entity_number": 17,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 5
-        },
         "entity_number": 18,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -5
-        },
         "entity_number": 19,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -5
-        },
         "entity_number": 20,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -3
-        },
         "entity_number": 21,
-        "name": "radar"
+        "name": "radar",
+        "position": {
+          "x": -3,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": -0.5,
-          "x": 0.5
-        },
         "entity_number": 22,
-        "name": "gun-turret"
+        "name": "gun-turret",
+        "position": {
+          "x": 0.5,
+          "y": -0.5
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 3
-        },
         "entity_number": 23,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": 3,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 5
-        },
         "entity_number": 24,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": 5
-        },
         "entity_number": 25,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -5
-        },
         "entity_number": 26,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -5
-        },
         "entity_number": 27,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -1
-        },
         "entity_number": 28,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -1,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 5
-        },
         "entity_number": 29,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 5
-        },
         "entity_number": 30,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -5
-        },
         "entity_number": 31,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -5
-        },
         "entity_number": 32,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -3
-        },
         "entity_number": 33,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": -3,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 0
-        },
         "entity_number": 34,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 3
-        },
         "entity_number": 35,
-        "name": "solar-panel"
+        "name": "solar-panel",
+        "position": {
+          "x": 3,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
         "entity_number": 36,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 5
-        },
         "entity_number": 37,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -5
-        },
         "entity_number": 38,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -5
-        },
         "entity_number": 39,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -4
-        },
         "entity_number": 40,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -4,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -3
-        },
         "entity_number": 41,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -3,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -2
-        },
         "entity_number": 42,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -2,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -1
-        },
         "entity_number": 43,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": -1,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 0
-        },
         "entity_number": 44,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 0,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 1
-        },
         "entity_number": 45,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 1,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 2
-        },
         "entity_number": 46,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 2,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 3
-        },
         "entity_number": 47,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 4
-        },
         "entity_number": 48,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 4,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 5
-        },
         "entity_number": 49,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 5
-        },
         "entity_number": 50,
-        "name": "stone-wall"
+        "name": "stone-wall",
+        "position": {
+          "x": 5,
+          "y": 5
+        }
       }
     ],
-    "label": "Small Radar Outpost",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "radar"
+          "name": "radar",
+          "type": "item"
         }
       },
       {
         "index": 2,
         "signal": {
-          "type": "item",
-          "name": "solar-panel"
+          "name": "solar-panel",
+          "type": "item"
         }
       },
       {
         "index": 3,
         "signal": {
-          "type": "item",
-          "name": "solar-panel"
+          "name": "solar-panel",
+          "type": "item"
         }
       },
       {
         "index": 4,
         "signal": {
-          "type": "item",
-          "name": "solar-panel"
+          "name": "solar-panel",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Small Radar Outpost",
+    "version": 68722819072
   }
 }

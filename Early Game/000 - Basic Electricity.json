@@ -2,201 +2,201 @@
   "blueprint": {
     "entities": [
       {
-        "position": {
-          "y": -2,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 1,
-        "direction": 2,
-        "name": "steam-engine"
+        "name": "steam-engine",
+        "position": {
+          "x": -5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 2,
-        "direction": 2,
-        "name": "steam-engine"
+        "name": "steam-engine",
+        "position": {
+          "x": 0,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 3.5
-        },
+        "direction": 6,
         "entity_number": 3,
-        "direction": 6,
-        "name": "boiler"
+        "name": "boiler",
+        "position": {
+          "x": 3.5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 4,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 5,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 5
-        },
+        "direction": 2,
         "entity_number": 6,
-        "direction": 2,
-        "name": "burner-inserter"
+        "name": "burner-inserter",
+        "position": {
+          "x": 5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -6
-        },
         "entity_number": 7,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -6,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -5
-        },
         "entity_number": 8,
-        "name": "small-electric-pole"
+        "name": "small-electric-pole",
+        "position": {
+          "x": -5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 1
-        },
         "entity_number": 9,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 2
-        },
         "entity_number": 10,
-        "name": "small-electric-pole"
+        "name": "small-electric-pole",
+        "position": {
+          "x": 2,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 4
-        },
         "entity_number": 11,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 12,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 13,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 5
-        },
+        "direction": 6,
         "entity_number": 14,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 15,
-        "direction": 2,
-        "name": "steam-engine"
+        "name": "steam-engine",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 16,
-        "direction": 2,
-        "name": "steam-engine"
+        "name": "steam-engine",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 3.5
-        },
-        "entity_number": 17,
         "direction": 6,
-        "name": "boiler"
+        "entity_number": 17,
+        "name": "boiler",
+        "position": {
+          "x": 3.5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
-        "entity_number": 18,
         "direction": 2,
-        "name": "burner-inserter"
+        "entity_number": 18,
+        "name": "burner-inserter",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 19,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 20,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 6
-        },
-        "entity_number": 21,
         "direction": 4,
-        "name": "transport-belt"
+        "entity_number": 21,
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": 3
+        }
       }
     ],
-    "label": "Basic Electricity",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "steam-engine"
+          "name": "steam-engine",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Basic Electricity",
+    "version": 68722819072
   }
 }

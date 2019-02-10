@@ -2,258 +2,258 @@
   "blueprint": {
     "entities": [
       {
-        "position": {
-          "y": -4,
-          "x": -1.5
-        },
+        "direction": 4,
         "entity_number": 1,
-        "direction": 4,
-        "name": "splitter"
+        "name": "splitter",
+        "position": {
+          "x": -1.5,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 0.5
-        },
+        "direction": 4,
         "entity_number": 2,
-        "direction": 4,
-        "name": "splitter"
+        "name": "splitter",
+        "position": {
+          "x": 0.5,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -1
-        },
+        "direction": 4,
         "entity_number": 3,
-        "direction": 4,
         "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -2
+        },
         "type": "input"
       },
       {
-        "position": {
-          "y": -2,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 4,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 5,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -0.5
-        },
+        "direction": 4,
         "entity_number": 6,
-        "direction": 4,
-        "name": "splitter"
+        "name": "splitter",
+        "position": {
+          "x": -0.5,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 1
-        },
+        "direction": 4,
         "entity_number": 7,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 1
-        },
+        "direction": 4,
         "entity_number": 8,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 0
-        },
-        "entity_number": 9,
         "direction": 4,
+        "entity_number": 9,
         "name": "underground-belt",
+        "position": {
+          "x": 0,
+          "y": -2
+        },
         "type": "input"
       },
       {
-        "position": {
-          "y": 0,
-          "x": -0.5
-        },
+        "direction": 4,
         "entity_number": 10,
-        "direction": 4,
-        "name": "splitter"
+        "name": "splitter",
+        "position": {
+          "x": -0.5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -2
-        },
+        "direction": 2,
         "entity_number": 11,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -1
-        },
+        "direction": 4,
         "entity_number": 12,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": 0
-        },
+        "direction": 4,
         "entity_number": 13,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": 1
-        },
+        "direction": 6,
         "entity_number": 14,
-        "direction": 6,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -1
-        },
+        "direction": 4,
         "entity_number": 15,
-        "direction": 4,
         "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 2
+        },
         "type": "output"
       },
       {
-        "position": {
-          "y": 2,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 16,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 17,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -1
-        },
-        "entity_number": 18,
         "direction": 6,
-        "name": "transport-belt"
+        "entity_number": 18,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 0
-        },
-        "entity_number": 19,
         "direction": 4,
+        "entity_number": 19,
         "name": "underground-belt",
+        "position": {
+          "x": 0,
+          "y": 2
+        },
         "type": "output"
       },
       {
-        "position": {
-          "y": 2,
-          "x": 1
-        },
+        "direction": 4,
         "entity_number": 20,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 1
-        },
+        "direction": 4,
         "entity_number": 21,
-        "direction": 4,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 0
-        },
-        "entity_number": 22,
         "direction": 2,
-        "name": "transport-belt"
+        "entity_number": 22,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -1.5
-        },
+        "direction": 4,
         "entity_number": 23,
-        "direction": 4,
-        "name": "splitter"
+        "name": "splitter",
+        "position": {
+          "x": -1.5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 0.5
-        },
-        "entity_number": 24,
         "direction": 4,
-        "name": "splitter"
+        "entity_number": 24,
+        "name": "splitter",
+        "position": {
+          "x": 0.5,
+          "y": 3
+        }
       }
     ],
-    "label": "4x4 splitter yellow belts",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "splitter"
+          "name": "splitter",
+          "type": "item"
         }
       },
       {
         "index": 2,
         "signal": {
-          "type": "virtual",
-          "name": "signal-4"
+          "name": "signal-4",
+          "type": "virtual"
         }
       },
       {
         "index": 3,
         "signal": {
-          "type": "virtual",
-          "name": "signal-4"
+          "name": "signal-4",
+          "type": "virtual"
         }
       },
       {
         "index": 4,
         "signal": {
-          "type": "item",
-          "name": "splitter"
+          "name": "splitter",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "4x4 splitter yellow belts",
+    "version": 68722819072
   }
 }

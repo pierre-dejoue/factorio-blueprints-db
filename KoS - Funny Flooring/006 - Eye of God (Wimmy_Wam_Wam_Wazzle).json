@@ -1,1810 +1,1810 @@
 {
   "blueprint": {
-    "item": "blueprint",
-    "tiles": [
-      {
-        "position": {
-          "y": -8,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -8
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -8
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": -1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 0
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 0
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 1
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 1
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 2
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 2
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 3
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 3
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 4
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 4
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 5
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 5
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 6
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 6
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -8,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -7,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 7
-        },
-        "name": "hazard-concrete-left"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 5,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 6,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      },
-      {
-        "position": {
-          "y": 7,
-          "x": 7
-        },
-        "name": "hazard-concrete-right"
-      }
-    ],
-    "label": "Eye of God (Wimmy_Wam_Wam_Wazzle)",
-    "version": 68722819072,
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "hazard-concrete"
+          "name": "hazard-concrete",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Eye of God (Wimmy_Wam_Wam_Wazzle)",
+    "tiles": [
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -8,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -7,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -6,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -4,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -3,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -2,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": -1,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 1,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 2,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 3,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 4,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 5,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 6,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-right",
+        "position": {
+          "x": 7,
+          "y": 7
+        }
+      }
+    ],
+    "version": 68722819072
   }
 }

@@ -1,977 +1,977 @@
 {
   "blueprint": {
-    "item": "blueprint",
-    "tiles": [
-      {
-        "position": {
-          "y": -3,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -27
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -26
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -26
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -25
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -25
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -24
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -24
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -23
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -23
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -20
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -20
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -19
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -19
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -16
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -16
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -13
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -12
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -12
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -11
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -11
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -11
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": -6
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -4
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -4
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -3
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -3
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": -2
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": -2
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 1
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 2
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 3
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 4
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 5
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 8
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 8
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 9
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 10
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 11
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 11
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 12
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 12
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 15
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 16
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 17
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 18
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 19
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": 22
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -2,
-          "x": 22
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -1,
-          "x": 22
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 22
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 23
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 23
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 23
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 24
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 24
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 24
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 25
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": 25
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 4,
-          "x": 25
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 26
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 1,
-          "x": 26
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 2,
-          "x": 26
-        },
-        "name": "concrete"
-      },
-      {
-        "position": {
-          "y": 3,
-          "x": 26
-        },
-        "name": "concrete"
-      }
-    ],
-    "label": "1 Circuits",
-    "version": 68722819072,
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "electronic-circuit"
+          "name": "electronic-circuit",
+          "type": "item"
         }
       },
       {
         "index": 2,
         "signal": {
-          "type": "item",
-          "name": "advanced-circuit"
+          "name": "advanced-circuit",
+          "type": "item"
         }
       },
       {
         "index": 3,
         "signal": {
-          "type": "item",
-          "name": "processing-unit"
+          "name": "processing-unit",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "1 Circuits",
+    "tiles": [
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -27,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -26,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -26,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -25,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -25,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -24,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -24,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -23,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -23,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -20,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -20,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -19,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -19,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -18,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -17,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -17,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -16,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -16,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -13,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -12,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -12,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -11,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -11,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -11,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 11,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 11,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 12,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 12,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 15,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 16,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 17,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 18,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 19,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 22,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 22,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 22,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 22,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 23,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 23,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 23,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 24,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 24,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 24,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 25,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 25,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 25,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 26,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 26,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 26,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 26,
+          "y": 3
+        }
+      }
+    ],
+    "version": 68722819072
   }
 }

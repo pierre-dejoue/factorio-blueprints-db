@@ -8,320 +8,320 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "item",
-                "name": "solid-fuel"
+                "name": "solid-fuel",
+                "type": "item"
               }
             }
           ]
-        },
-        "position": {
-          "y": -12,
-          "x": -22
         },
         "entity_number": 1,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": -22,
+          "y": -12
+        }
       },
       {
-        "position": {
-          "y": -12,
-          "x": -21
-        },
         "entity_number": 2,
-        "name": "steel-chest"
+        "name": "steel-chest",
+        "position": {
+          "x": -21,
+          "y": -12
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -21
-        },
+        "direction": 4,
         "entity_number": 3,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": -21,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -16
-        },
         "entity_number": 4,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -16,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -17
-        },
         "entity_number": 5,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -17,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -14
-        },
+        "direction": 6,
         "entity_number": 6,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -15
-        },
         "entity_number": 7,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -12
-        },
+        "direction": 2,
         "entity_number": 8,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -12,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -10
-        },
         "entity_number": 9,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -10,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -11
-        },
         "entity_number": 10,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -11,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -8
-        },
+        "direction": 6,
         "entity_number": 11,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -8,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -9
-        },
         "entity_number": 12,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -6
-        },
+        "direction": 2,
         "entity_number": 13,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -6,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -4
-        },
         "entity_number": 14,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -5
-        },
         "entity_number": 15,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -5,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 16,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": -3
-        },
         "entity_number": 17,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 18,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 2
-        },
         "entity_number": 19,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 1
-        },
         "entity_number": 20,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 1,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 21,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 3
-        },
         "entity_number": 22,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 6
-        },
+        "direction": 2,
         "entity_number": 23,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 8
-        },
         "entity_number": 24,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 8,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 7
-        },
         "entity_number": 25,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 7,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 10
-        },
+        "direction": 6,
         "entity_number": 26,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 10,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 9
-        },
         "entity_number": 27,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 9,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 12
-        },
+        "direction": 2,
         "entity_number": 28,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 12,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 14
-        },
         "entity_number": 29,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 14,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 13
-        },
         "entity_number": 30,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 13,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 16
-        },
+        "direction": 6,
         "entity_number": 31,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 16,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 15
-        },
         "entity_number": 32,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 15,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 18
-        },
+        "direction": 2,
         "entity_number": 33,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 18,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 20
-        },
         "entity_number": 34,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 20,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 19
-        },
         "entity_number": 35,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 19,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 22
-        },
+        "direction": 6,
         "entity_number": 36,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 22,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 21
-        },
         "entity_number": 37,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 21,
+          "y": -11
+        }
       },
       {
         "control_behavior": {
@@ -330,28 +330,28 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "lubricant"
+                "name": "lubricant",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": -12,
-          "x": 25
-        },
+        "direction": 4,
         "entity_number": 38,
-        "direction": 4,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": 25,
+          "y": -12
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 26
-        },
-        "entity_number": 39,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 39,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 26,
+          "y": -11
+        }
       },
       {
         "control_behavior": {
@@ -360,2119 +360,2119 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "petroleum-gas"
+                "name": "petroleum-gas",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": -12,
-          "x": 27
-        },
+        "direction": 4,
         "entity_number": 40,
-        "direction": 4,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": 27,
+          "y": -12
+        }
       },
       {
-        "position": {
-          "y": -11,
-          "x": 27
-        },
         "entity_number": 41,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 27,
+          "y": -11
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -22
-        },
+        "direction": 4,
         "entity_number": 42,
-        "direction": 4,
-        "name": "chemical-plant"
+        "name": "chemical-plant",
+        "position": {
+          "x": -22,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -18
-        },
         "entity_number": 43,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -18,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": -18
-        },
         "entity_number": 44,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -18,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -16
-        },
+        "direction": 4,
         "entity_number": 45,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -16,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -10,
-          "x": -12
-        },
         "entity_number": 46,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -12,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -10
-        },
+        "direction": 4,
         "entity_number": 47,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -10,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -9,
-          "x": -6
-        },
         "entity_number": 48,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -6,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": -6
-        },
         "entity_number": 49,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -6,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -4
-        },
+        "direction": 4,
         "entity_number": 50,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -4,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 0
-        },
         "entity_number": 51,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 0,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": 2
-        },
+        "direction": 4,
         "entity_number": 52,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": 2,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -9,
-          "x": 6
-        },
         "entity_number": 53,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 6,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 6
-        },
         "entity_number": 54,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 6,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": 8
-        },
+        "direction": 4,
         "entity_number": 55,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": 8,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 12
-        },
         "entity_number": 56,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 12,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": 14
-        },
+        "direction": 4,
         "entity_number": 57,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": 14,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -9,
-          "x": 18
-        },
         "entity_number": 58,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 18,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 18
-        },
         "entity_number": 59,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 18,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": 20
-        },
-        "entity_number": 60,
         "direction": 4,
+        "entity_number": 60,
         "name": "chemical-plant",
+        "position": {
+          "x": 20,
+          "y": -9
+        },
         "recipe": "light-oil-cracking"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 27
-        },
         "entity_number": 61,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 27,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": 27
-        },
         "entity_number": 62,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 27,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -24
-        },
+        "direction": 2,
         "entity_number": 63,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -24,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -23
-        },
         "entity_number": 64,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -23,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -22
-        },
         "entity_number": 65,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -22,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -20
-        },
+        "direction": 6,
         "entity_number": 66,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -20,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -21
-        },
         "entity_number": 67,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -18
-        },
+        "direction": 2,
         "entity_number": 68,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -18,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -16
-        },
+        "direction": 6,
         "entity_number": 69,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -17
-        },
         "entity_number": 70,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -17,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -15
-        },
         "entity_number": 71,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -12
-        },
+        "direction": 2,
         "entity_number": 72,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -12,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -10
-        },
+        "direction": 6,
         "entity_number": 73,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -11
-        },
         "entity_number": 74,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -11,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -9
-        },
         "entity_number": 75,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -6
-        },
+        "direction": 2,
         "entity_number": 76,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -6,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -4
-        },
+        "direction": 6,
         "entity_number": 77,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -5
-        },
         "entity_number": 78,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -5,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": -3
-        },
         "entity_number": 79,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 80,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 2
-        },
+        "direction": 6,
         "entity_number": 81,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 1
-        },
         "entity_number": 82,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 1,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 3
-        },
         "entity_number": 83,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 6
-        },
+        "direction": 2,
         "entity_number": 84,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 8
-        },
+        "direction": 6,
         "entity_number": 85,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 7
-        },
         "entity_number": 86,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 7,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 9
-        },
         "entity_number": 87,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 9,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 12
-        },
+        "direction": 2,
         "entity_number": 88,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 12,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 14
-        },
+        "direction": 6,
         "entity_number": 89,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 14,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 13
-        },
         "entity_number": 90,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 13,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 15
-        },
         "entity_number": 91,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 15,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 18
-        },
+        "direction": 2,
         "entity_number": 92,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 18,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 20
-        },
+        "direction": 6,
         "entity_number": 93,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 20,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 19
-        },
         "entity_number": 94,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 19,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -7,
-          "x": 21
-        },
         "entity_number": 95,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 21,
+          "y": -7
+        }
       },
       {
-        "position": {
-          "y": -8,
-          "x": 27
-        },
         "entity_number": 96,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 27,
+          "y": -8
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -26
-        },
         "entity_number": 97,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -26,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": -26
-        },
         "entity_number": 98,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -26,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -25
-        },
+        "direction": 6,
         "entity_number": 99,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -25,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -17
-        },
         "entity_number": 100,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -17,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -16
-        },
+        "direction": 2,
         "entity_number": 101,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -14
-        },
+        "direction": 6,
         "entity_number": 102,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -15
-        },
         "entity_number": 103,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -10
-        },
+        "direction": 2,
         "entity_number": 104,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -8
-        },
+        "direction": 6,
         "entity_number": 105,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -8,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -9
-        },
         "entity_number": 106,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -4
-        },
+        "direction": 2,
         "entity_number": 107,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 108,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": -3
-        },
         "entity_number": 109,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 2
-        },
+        "direction": 2,
         "entity_number": 110,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 111,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 3
-        },
         "entity_number": 112,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 8
-        },
+        "direction": 2,
         "entity_number": 113,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 10
-        },
+        "direction": 6,
         "entity_number": 114,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 10,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 9
-        },
         "entity_number": 115,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 9,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 14
-        },
+        "direction": 2,
         "entity_number": 116,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 14,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 16
-        },
+        "direction": 6,
         "entity_number": 117,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 16,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 15
-        },
         "entity_number": 118,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 15,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 20
-        },
+        "direction": 2,
         "entity_number": 119,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 20,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 22
-        },
+        "direction": 6,
         "entity_number": 120,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 22,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -6,
-          "x": 21
-        },
         "entity_number": 121,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 21,
+          "y": -6
+        }
       },
       {
-        "position": {
-          "y": -5,
-          "x": 25
-        },
+        "direction": 4,
         "entity_number": 122,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 25,
+          "y": -5
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -22
-        },
         "entity_number": 123,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -22,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -23
-        },
         "entity_number": 124,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -23,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -23
-        },
         "entity_number": 125,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -23,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -20
-        },
+        "direction": 6,
         "entity_number": 126,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -20,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -21
-        },
         "entity_number": 127,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -21
-        },
         "entity_number": 128,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -18
-        },
+        "direction": 2,
         "entity_number": 129,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -18,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -17
-        },
+        "direction": 4,
         "entity_number": 130,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -17,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -16
-        },
         "entity_number": 131,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -16,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -17
-        },
         "entity_number": 132,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -17,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -14
-        },
+        "direction": 6,
         "entity_number": 133,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -15
-        },
         "entity_number": 134,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -10
-        },
+        "direction": 2,
         "entity_number": 135,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -10
-        },
+        "direction": 2,
         "entity_number": 136,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -9
-        },
+        "direction": 6,
         "entity_number": 137,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -9,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -7
-        },
         "entity_number": 138,
-        "name": "storage-tank"
+        "name": "storage-tank",
+        "position": {
+          "x": -7,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -9
-        },
         "entity_number": 139,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 2
-        },
         "entity_number": 140,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 2
-        },
         "entity_number": 141,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 1
-        },
+        "direction": 2,
         "entity_number": 142,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 4
-        },
         "entity_number": 143,
-        "name": "storage-tank"
+        "name": "storage-tank",
+        "position": {
+          "x": 4,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 3
-        },
+        "direction": 6,
         "entity_number": 144,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 3,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 14
-        },
+        "direction": 6,
         "entity_number": 145,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 14,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 13
-        },
+        "direction": 2,
         "entity_number": 146,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 13,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 16
-        },
         "entity_number": 147,
-        "name": "storage-tank"
+        "name": "storage-tank",
+        "position": {
+          "x": 16,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 24
-        },
-        "entity_number": 148,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 148,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 24,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 25
-        },
         "entity_number": 149,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 25,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -22
-        },
-        "entity_number": 150,
         "direction": 4,
+        "entity_number": 150,
         "name": "chemical-plant",
+        "position": {
+          "x": -22,
+          "y": -1
+        },
         "recipe": "lubricant"
       },
       {
-        "position": {
-          "y": -2,
-          "x": -18
-        },
         "entity_number": 151,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -18,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -16
-        },
-        "entity_number": 152,
         "direction": 4,
+        "entity_number": 152,
         "name": "chemical-plant",
+        "position": {
+          "x": -16,
+          "y": -1
+        },
         "recipe": "heavy-oil-cracking"
       },
       {
-        "position": {
-          "y": -2,
-          "x": -9
-        },
         "entity_number": 153,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -9,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -26
-        },
+        "direction": 4,
         "entity_number": 154,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -26,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -22
-        },
         "entity_number": 155,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -22,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -23
-        },
         "entity_number": 156,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -23,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -20
-        },
+        "direction": 6,
         "entity_number": 157,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -20,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -21
-        },
         "entity_number": 158,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -18
-        },
+        "direction": 2,
         "entity_number": 159,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -18,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -16
-        },
+        "direction": 6,
         "entity_number": 160,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -17
-        },
         "entity_number": 161,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -17,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -15
-        },
         "entity_number": 162,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 17
-        },
         "entity_number": 163,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 17,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -26
-        },
         "entity_number": 164,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -26,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -27
-        },
+        "direction": 2,
         "entity_number": 165,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -27,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -26
-        },
         "entity_number": 166,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -26,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -25
-        },
+        "direction": 6,
         "entity_number": 167,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -25,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -23
-        },
         "entity_number": 168,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -23,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -20
-        },
+        "direction": 2,
         "entity_number": 169,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -20,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -18
-        },
+        "direction": 6,
         "entity_number": 170,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -18,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -19
-        },
         "entity_number": 171,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -19,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -16
-        },
+        "direction": 2,
         "entity_number": 172,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -14
-        },
+        "direction": 6,
         "entity_number": 173,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -15
-        },
         "entity_number": 174,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -14
-        },
+        "direction": 2,
         "entity_number": 175,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -12
-        },
+        "direction": 6,
         "entity_number": 176,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -12,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -13
-        },
         "entity_number": 177,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -13,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -9
-        },
+        "direction": 4,
         "entity_number": 178,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -9,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -8
-        },
+        "direction": 2,
         "entity_number": 179,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -8,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -6
-        },
+        "direction": 6,
         "entity_number": 180,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -6,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -7
-        },
         "entity_number": 181,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -7,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -2
-        },
+        "direction": 2,
         "entity_number": 182,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 0
-        },
+        "direction": 6,
         "entity_number": 183,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -1
-        },
         "entity_number": 184,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 4
-        },
+        "direction": 2,
         "entity_number": 185,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 6
-        },
+        "direction": 6,
         "entity_number": 186,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 5
-        },
         "entity_number": 187,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 10
-        },
+        "direction": 2,
         "entity_number": 188,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 10,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 12
-        },
+        "direction": 6,
         "entity_number": 189,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 12,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 11
-        },
         "entity_number": 190,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 11,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 16
-        },
+        "direction": 2,
         "entity_number": 191,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 16,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 17
-        },
+        "direction": 4,
         "entity_number": 192,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 17,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 18
-        },
+        "direction": 6,
         "entity_number": 193,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 18,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 17
-        },
         "entity_number": 194,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 17,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 22
-        },
+        "direction": 2,
         "entity_number": 195,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 22,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 24
-        },
+        "direction": 6,
         "entity_number": 196,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 24,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 23
-        },
         "entity_number": 197,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 23,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 26
-        },
+        "direction": 2,
         "entity_number": 198,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 26,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 27
-        },
+        "direction": 4,
         "entity_number": 199,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 27,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 27
-        },
         "entity_number": 200,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 27,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -24
-        },
+        "direction": 2,
         "entity_number": 201,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -24,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -23
-        },
-        "entity_number": 202,
         "direction": 4,
-        "name": "pipe-to-ground"
+        "entity_number": 202,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -23,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -22
-        },
+        "direction": 2,
         "entity_number": 203,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -22,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -22
-        },
+        "direction": 6,
         "entity_number": 204,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -22,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -23
-        },
         "entity_number": 205,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -23,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -20
-        },
+        "direction": 6,
         "entity_number": 206,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -20,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -21
-        },
         "entity_number": 207,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -21
-        },
         "entity_number": 208,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -21,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -18
-        },
         "entity_number": 209,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -18,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -18
-        },
+        "direction": 2,
         "entity_number": 210,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -18,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -19
-        },
         "entity_number": 211,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -19,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -19
-        },
         "entity_number": 212,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -19,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -16
-        },
+        "direction": 2,
         "entity_number": 213,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -16
-        },
+        "direction": 6,
         "entity_number": 214,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -16,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -17
-        },
         "entity_number": 215,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -17,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -14
-        },
+        "direction": 6,
         "entity_number": 216,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -14,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -15
-        },
         "entity_number": 217,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -15
-        },
         "entity_number": 218,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -15,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -12
-        },
+        "direction": 2,
         "entity_number": 219,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -12,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -13
-        },
         "entity_number": 220,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -13,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -13
-        },
         "entity_number": 221,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -13,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -10
-        },
+        "direction": 2,
         "entity_number": 222,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -10
-        },
+        "direction": 6,
         "entity_number": 223,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -10,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -11
-        },
         "entity_number": 224,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -11,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -8
-        },
+        "direction": 6,
         "entity_number": 225,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -8,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -9
-        },
         "entity_number": 226,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -9
-        },
         "entity_number": 227,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -9,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -6
-        },
+        "direction": 2,
         "entity_number": 228,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -6,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -7
-        },
         "entity_number": 229,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -7,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -7
-        },
         "entity_number": 230,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -7,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -4
-        },
+        "direction": 2,
         "entity_number": 231,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -4
-        },
+        "direction": 6,
         "entity_number": 232,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -5
-        },
         "entity_number": 233,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -5,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 234,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -3
-        },
         "entity_number": 235,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -3
-        },
         "entity_number": 236,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 237,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -1
-        },
         "entity_number": 238,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": -1
-        },
         "entity_number": 239,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 2
-        },
+        "direction": 2,
         "entity_number": 240,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 2
-        },
+        "direction": 6,
         "entity_number": 241,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 1
-        },
         "entity_number": 242,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 1,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 243,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 3
-        },
         "entity_number": 244,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 3
-        },
         "entity_number": 245,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 6
-        },
+        "direction": 2,
         "entity_number": 246,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 5
-        },
         "entity_number": 247,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 5
-        },
         "entity_number": 248,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 8
-        },
+        "direction": 2,
         "entity_number": 249,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 8
-        },
+        "direction": 6,
         "entity_number": 250,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 7
-        },
         "entity_number": 251,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 7,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 10
-        },
+        "direction": 6,
         "entity_number": 252,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 10,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 9
-        },
         "entity_number": 253,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 9,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 9
-        },
         "entity_number": 254,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 9,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 12
-        },
+        "direction": 2,
         "entity_number": 255,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 12,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 11
-        },
         "entity_number": 256,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 11,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 11
-        },
         "entity_number": 257,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 11,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 14
-        },
+        "direction": 2,
         "entity_number": 258,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 14,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 14
-        },
+        "direction": 6,
         "entity_number": 259,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 14,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 13
-        },
         "entity_number": 260,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 13,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 16
-        },
+        "direction": 6,
         "entity_number": 261,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 16,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 15
-        },
         "entity_number": 262,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 15,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 15
-        },
         "entity_number": 263,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 15,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 18
-        },
+        "direction": 2,
         "entity_number": 264,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 18,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 17
-        },
         "entity_number": 265,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 17,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 17
-        },
         "entity_number": 266,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 17,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 20
-        },
-        "entity_number": 267,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 267,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 20,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 20
-        },
+        "direction": 6,
         "entity_number": 268,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 20,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 19
-        },
         "entity_number": 269,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 19,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 22
-        },
-        "entity_number": 270,
         "direction": 6,
-        "name": "pipe-to-ground"
+        "entity_number": 270,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 22,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 21
-        },
         "entity_number": 271,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 21,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 21
-        },
         "entity_number": 272,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 21,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 23
-        },
         "entity_number": 273,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 23,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 23
-        },
         "entity_number": 274,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 23,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": -21
-        },
         "entity_number": 275,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": -21,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": -15
-        },
         "entity_number": 276,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": -15,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": -9
-        },
         "entity_number": 277,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": -9,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": -3
-        },
         "entity_number": 278,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": -3,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": 3
-        },
         "entity_number": 279,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 3,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": 9
-        },
         "entity_number": 280,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 9,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": 15
-        },
         "entity_number": 281,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 15,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": 21
-        },
         "entity_number": 282,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 21,
+          "y": 8
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 8,
-          "x": -18
-        },
         "entity_number": 283,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -18,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": -6
-        },
         "entity_number": 284,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -6,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 6
-        },
         "entity_number": 285,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 6,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 18
-        },
         "entity_number": 286,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 18,
+          "y": 8
+        }
       },
       {
         "control_behavior": {
@@ -2481,372 +2481,372 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "water"
+                "name": "water",
+                "type": "fluid"
               }
             }
           ]
-        },
-        "position": {
-          "y": 11,
-          "x": -27
         },
         "entity_number": 287,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": -27,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -26
-        },
         "entity_number": 288,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -26,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": -26
-        },
-        "entity_number": 289,
         "direction": 4,
-        "name": "pipe-to-ground"
+        "entity_number": 289,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -26,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -25
-        },
+        "direction": 6,
         "entity_number": 290,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -25,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -22
-        },
         "entity_number": 291,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -22,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -23
-        },
+        "direction": 2,
         "entity_number": 292,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -23,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -21
-        },
+        "direction": 6,
         "entity_number": 293,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -21,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -20
-        },
         "entity_number": 294,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -20,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": -18
-        },
         "entity_number": 295,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -18,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -17
-        },
+        "direction": 2,
         "entity_number": 296,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -17,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -16
-        },
         "entity_number": 297,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -16,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -15
-        },
+        "direction": 6,
         "entity_number": 298,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -15,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -14
-        },
         "entity_number": 299,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -14,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": -12
-        },
         "entity_number": 300,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -12,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -11
-        },
+        "direction": 2,
         "entity_number": 301,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -11,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -10
-        },
         "entity_number": 302,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -10,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -9
-        },
+        "direction": 6,
         "entity_number": 303,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -9,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -8
-        },
         "entity_number": 304,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -8,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": -6
-        },
         "entity_number": 305,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -6,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 306,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -5,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -4
-        },
         "entity_number": 307,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -3
-        },
+        "direction": 6,
         "entity_number": 308,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": -2
-        },
         "entity_number": 309,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -2,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": 0
-        },
         "entity_number": 310,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 0,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 1
-        },
+        "direction": 2,
         "entity_number": 311,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 1,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 2
-        },
         "entity_number": 312,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 3
-        },
+        "direction": 6,
         "entity_number": 313,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 3,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 4
-        },
         "entity_number": 314,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 4,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": 6
-        },
         "entity_number": 315,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 6,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 7
-        },
+        "direction": 2,
         "entity_number": 316,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 7,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 8
-        },
         "entity_number": 317,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 8,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 9
-        },
+        "direction": 6,
         "entity_number": 318,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 9,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 10
-        },
         "entity_number": 319,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 10,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": 12
-        },
         "entity_number": 320,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 12,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 13
-        },
+        "direction": 2,
         "entity_number": 321,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 13,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 14
-        },
         "entity_number": 322,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 14,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 15
-        },
+        "direction": 6,
         "entity_number": 323,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 15,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 16
-        },
         "entity_number": 324,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 16,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 10,
-          "x": 18
-        },
         "entity_number": 325,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 18,
+          "y": 10
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 19
-        },
-        "entity_number": 326,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 326,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 19,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 20
-        },
         "entity_number": 327,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 20,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 21
-        },
-        "entity_number": 328,
         "direction": 6,
-        "name": "pipe-to-ground"
+        "entity_number": 328,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 21,
+          "y": 11
+        }
       },
       {
-        "position": {
-          "y": 11,
-          "x": 22
-        },
         "entity_number": 329,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 22,
+          "y": 11
+        }
       },
       {
         "control_behavior": {
@@ -2855,285 +2855,285 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "crude-oil"
+                "name": "crude-oil",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": 12,
-          "x": -27
-        },
         "entity_number": 330,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": -27,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -21
-        },
+        "direction": 2,
         "entity_number": 331,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -21,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -20
-        },
         "entity_number": 332,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -20,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -19
-        },
+        "direction": 6,
         "entity_number": 333,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -19,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -16
-        },
         "entity_number": 334,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -16,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -15
-        },
+        "direction": 2,
         "entity_number": 335,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -15,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -14
-        },
         "entity_number": 336,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -14,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -13
-        },
+        "direction": 6,
         "entity_number": 337,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -13,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -9
-        },
+        "direction": 2,
         "entity_number": 338,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -9,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -8
-        },
         "entity_number": 339,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -8,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -7
-        },
+        "direction": 6,
         "entity_number": 340,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -7,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -4
-        },
         "entity_number": 341,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -4,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -3
-        },
+        "direction": 2,
         "entity_number": 342,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -2
-        },
         "entity_number": 343,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -2,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": -1
-        },
+        "direction": 6,
         "entity_number": 344,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -1,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 3
-        },
+        "direction": 2,
         "entity_number": 345,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 3,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 4
-        },
         "entity_number": 346,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 4,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 5
-        },
+        "direction": 6,
         "entity_number": 347,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 5,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 8
-        },
         "entity_number": 348,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 8,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 9
-        },
+        "direction": 2,
         "entity_number": 349,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 9,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 10
-        },
         "entity_number": 350,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 10,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 11
-        },
+        "direction": 6,
         "entity_number": 351,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 11,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 15
-        },
+        "direction": 2,
         "entity_number": 352,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 15,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 16
-        },
         "entity_number": 353,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 16,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 17
-        },
+        "direction": 6,
         "entity_number": 354,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 17,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 20
-        },
         "entity_number": 355,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 20,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 21
-        },
-        "entity_number": 356,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 356,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 21,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 22
-        },
         "entity_number": 357,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 22,
+          "y": 12
+        }
       },
       {
-        "position": {
-          "y": 12,
-          "x": 23
-        },
-        "entity_number": 358,
         "direction": 6,
-        "name": "pipe-to-ground"
+        "entity_number": 358,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 23,
+          "y": 12
+        }
       }
     ],
-    "label": "Crude Oil Processing 8-1-7",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "fluid",
-          "name": "petroleum-gas"
+          "name": "petroleum-gas",
+          "type": "fluid"
         }
       },
       {
         "index": 2,
         "signal": {
-          "type": "item",
-          "name": "solid-fuel"
+          "name": "solid-fuel",
+          "type": "item"
         }
       },
       {
         "index": 3,
         "signal": {
-          "type": "fluid",
-          "name": "lubricant"
+          "name": "lubricant",
+          "type": "fluid"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Crude Oil Processing 8-1-7",
+    "version": 68722819072
   }
 }

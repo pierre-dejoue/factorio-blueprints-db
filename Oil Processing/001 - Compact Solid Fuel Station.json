@@ -2,965 +2,965 @@
   "blueprint": {
     "entities": [
       {
-        "position": {
-          "y": -10,
-          "x": -3
-        },
         "entity_number": 1,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -9,
-          "x": -3
-        },
         "entity_number": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": -9
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": -1
-        },
+        "direction": 2,
         "entity_number": 3,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -1,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 4,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -8,
-          "x": 1
-        },
         "entity_number": 5,
-        "recipe": "solid-fuel-from-light-oil",
-        "name": "chemical-plant",
         "items": {
           "speed-module": 1
-        }
+        },
+        "name": "chemical-plant",
+        "position": {
+          "x": 1,
+          "y": -8
+        },
+        "recipe": "solid-fuel-from-light-oil"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 0
-        },
         "entity_number": 6,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 0,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 1
-        },
+        "direction": 6,
         "entity_number": 7,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 1,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -8,
-          "x": 4
-        },
         "entity_number": 8,
-        "recipe": "solid-fuel-from-light-oil",
-        "name": "chemical-plant",
         "items": {
           "speed-module": 1
-        }
+        },
+        "name": "chemical-plant",
+        "position": {
+          "x": 4,
+          "y": -8
+        },
+        "recipe": "solid-fuel-from-light-oil"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 2
-        },
+        "direction": 2,
         "entity_number": 9,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 3
-        },
         "entity_number": 10,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 11,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -10,
-          "x": 5
-        },
-        "entity_number": 12,
         "direction": 2,
-        "name": "pipe-to-ground"
+        "entity_number": 12,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 5,
+          "y": -10
+        }
       },
       {
-        "position": {
-          "y": -8,
-          "x": 7
-        },
         "entity_number": 13,
-        "recipe": "solid-fuel-from-light-oil",
-        "name": "chemical-plant",
         "items": {
           "speed-module": 1
-        }
+        },
+        "name": "chemical-plant",
+        "position": {
+          "x": 7,
+          "y": -8
+        },
+        "recipe": "solid-fuel-from-light-oil"
       },
       {
-        "position": {
-          "y": -10,
-          "x": 6
-        },
         "entity_number": 14,
-        "name": "pipe"
-      },
-      {
+        "name": "pipe",
         "position": {
-          "y": -10,
-          "x": 7
-        },
-        "entity_number": 15,
-        "direction": 6,
-        "name": "pipe-to-ground"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -9
-        },
-        "entity_number": 16,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -8
-        },
-        "entity_number": 17,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -7
-        },
-        "entity_number": 18,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -5
-        },
-        "entity_number": 19,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -6
-        },
-        "entity_number": 20,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -3
-        },
-        "entity_number": 21,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -4
-        },
-        "entity_number": 22,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -1
-        },
-        "entity_number": 23,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": -2
-        },
-        "entity_number": 24,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 1
-        },
-        "entity_number": 25,
-        "name": "inserter"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 1
-        },
-        "entity_number": 26,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 0
-        },
-        "entity_number": 27,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 2
-        },
-        "entity_number": 28,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 3
-        },
-        "entity_number": 29,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 3
-        },
-        "entity_number": 30,
-        "name": "small-lamp"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 5
-        },
-        "entity_number": 31,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 4
-        },
-        "entity_number": 32,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 4
-        },
-        "entity_number": 33,
-        "name": "inserter"
-      },
-      {
-        "position": {
-          "y": -6,
-          "x": 6
-        },
-        "entity_number": 34,
-        "name": "inserter"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 6
-        },
-        "entity_number": 35,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 7
-        },
-        "entity_number": 36,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -5,
-          "x": 8
-        },
-        "entity_number": 37,
-        "direction": 6,
-        "name": "transport-belt"
-      },
-      {
-        "position": {
-          "y": -3,
-          "x": -3
-        },
-        "entity_number": 38,
-        "direction": 4,
-        "name": "pipe-to-ground"
-      },
-      {
-        "entity_number": 39,
-        "name": "chemical-plant",
-        "items": {
-          "speed-module": 2
-        },
-        "recipe": "solid-fuel-from-petroleum-gas",
-        "direction": 4,
-        "position": {
-          "y": -2,
-          "x": 1
+          "x": 6,
+          "y": -10
         }
       },
       {
+        "direction": 6,
+        "entity_number": 15,
+        "name": "pipe-to-ground",
         "position": {
-          "y": -4,
-          "x": 1
-        },
-        "entity_number": 40,
-        "direction": 4,
-        "name": "inserter"
+          "x": 7,
+          "y": -10
+        }
       },
       {
-        "entity_number": 41,
+        "direction": 6,
+        "entity_number": 16,
+        "name": "transport-belt",
+        "position": {
+          "x": -9,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 17,
+        "name": "transport-belt",
+        "position": {
+          "x": -8,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 18,
+        "name": "transport-belt",
+        "position": {
+          "x": -7,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 19,
+        "name": "transport-belt",
+        "position": {
+          "x": -5,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 20,
+        "name": "transport-belt",
+        "position": {
+          "x": -6,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 21,
+        "name": "transport-belt",
+        "position": {
+          "x": -3,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 22,
+        "name": "transport-belt",
+        "position": {
+          "x": -4,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 23,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 24,
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 25,
+        "name": "inserter",
+        "position": {
+          "x": 1,
+          "y": -6
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 26,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 27,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 28,
+        "name": "transport-belt",
+        "position": {
+          "x": 2,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 29,
+        "name": "transport-belt",
+        "position": {
+          "x": 3,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 30,
+        "name": "small-lamp",
+        "position": {
+          "x": 3,
+          "y": -6
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 31,
+        "name": "transport-belt",
+        "position": {
+          "x": 5,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 32,
+        "name": "transport-belt",
+        "position": {
+          "x": 4,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 33,
+        "name": "inserter",
+        "position": {
+          "x": 4,
+          "y": -6
+        }
+      },
+      {
+        "entity_number": 34,
+        "name": "inserter",
+        "position": {
+          "x": 6,
+          "y": -6
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 35,
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 36,
+        "name": "transport-belt",
+        "position": {
+          "x": 7,
+          "y": -5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 37,
+        "name": "transport-belt",
+        "position": {
+          "x": 8,
+          "y": -5
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 38,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": -3
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 39,
+        "items": {
+          "speed-module": 2
+        },
         "name": "chemical-plant",
+        "position": {
+          "x": 1,
+          "y": -2
+        },
+        "recipe": "solid-fuel-from-petroleum-gas"
+      },
+      {
+        "direction": 4,
+        "entity_number": 40,
+        "name": "inserter",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 41,
         "items": {
           "speed-module": 1
         },
-        "recipe": "solid-fuel-from-light-oil",
-        "direction": 4,
+        "name": "chemical-plant",
         "position": {
-          "y": -2,
-          "x": 4
+          "x": 4,
+          "y": -2
+        },
+        "recipe": "solid-fuel-from-light-oil"
+      },
+      {
+        "entity_number": 42,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 3,
+          "y": -4
         }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 3
-        },
-        "entity_number": 42,
-        "name": "medium-electric-pole"
-      },
-      {
-        "position": {
-          "y": -4,
-          "x": 4
-        },
-        "entity_number": 43,
         "direction": 4,
-        "name": "inserter"
+        "entity_number": 43,
+        "name": "inserter",
+        "position": {
+          "x": 4,
+          "y": -4
+        }
       },
       {
+        "direction": 4,
         "entity_number": 44,
-        "name": "chemical-plant",
         "items": {
           "speed-module": 2
         },
-        "recipe": "solid-fuel-from-petroleum-gas",
-        "direction": 4,
+        "name": "chemical-plant",
         "position": {
-          "y": -2,
-          "x": 7
+          "x": 7,
+          "y": -2
+        },
+        "recipe": "solid-fuel-from-petroleum-gas"
+      },
+      {
+        "direction": 4,
+        "entity_number": 45,
+        "name": "inserter",
+        "position": {
+          "x": 6,
+          "y": -4
         }
       },
       {
-        "position": {
-          "y": -4,
-          "x": 6
-        },
-        "entity_number": 45,
         "direction": 4,
-        "name": "inserter"
-      },
-      {
-        "position": {
-          "y": 0,
-          "x": -5
-        },
         "entity_number": 46,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -5,
+          "y": 0
+        },
         "recipe": "heavy-oil-cracking"
       },
       {
-        "position": {
-          "y": -2,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 47,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -5,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -3
-        },
         "entity_number": 48,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -1,
-          "x": -3
-        },
         "entity_number": 49,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -4
-        },
         "entity_number": 50,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -3
-        },
+        "direction": 4,
         "entity_number": 51,
-        "direction": 4,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -3
-        },
         "entity_number": 52,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -3,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 53,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": -1
-        },
+        "direction": 2,
         "entity_number": 54,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -1,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 1
-        },
+        "direction": 2,
         "entity_number": 55,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 1
-        },
+        "direction": 6,
         "entity_number": 56,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 1,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 0
-        },
         "entity_number": 57,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 0,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 3
-        },
+        "direction": 6,
         "entity_number": 58,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 3,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 2
-        },
         "entity_number": 59,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 2
-        },
         "entity_number": 60,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 5
-        },
         "entity_number": 61,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 5
-        },
         "entity_number": 62,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 4
-        },
+        "direction": 2,
         "entity_number": 63,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 6
-        },
         "entity_number": 64,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 7
-        },
+        "direction": 6,
         "entity_number": 65,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 7,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 7
-        },
+        "direction": 2,
         "entity_number": 66,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 7,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 8
-        },
         "entity_number": 67,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 8,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 9
-        },
+        "direction": 6,
         "entity_number": 68,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 9,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 1,
-          "x": 8
-        },
         "entity_number": 69,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 8,
+          "y": 1
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -7
-        },
+        "direction": 2,
         "entity_number": 70,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -7,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -6
-        },
         "entity_number": 71,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -6,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -5
-        },
+        "direction": 6,
         "entity_number": 72,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 73,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -3
-        },
+        "direction": 2,
         "entity_number": 74,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -3
-        },
+        "direction": 6,
         "entity_number": 75,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -4
-        },
         "entity_number": 76,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -4
-        },
         "entity_number": 77,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 0
-        },
         "entity_number": 78,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 0,
+          "y": 5
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 2,
-          "x": -1
-        },
+        "direction": 6,
         "entity_number": 79,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -1,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -2
-        },
         "entity_number": 80,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -2,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 0
-        },
         "entity_number": 81,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 2
-        },
         "entity_number": 82,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 3
-        },
+        "direction": 2,
         "entity_number": 83,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 3,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 6
-        },
         "entity_number": 84,
-        "recipe": "advanced-oil-processing",
-        "name": "oil-refinery"
+        "name": "oil-refinery",
+        "position": {
+          "x": 6,
+          "y": 5
+        },
+        "recipe": "advanced-oil-processing"
       },
       {
-        "position": {
-          "y": 2,
-          "x": 4
-        },
         "entity_number": 85,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 4,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
+        "direction": 6,
         "entity_number": 86,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 6
-        },
         "entity_number": 87,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 6,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 8
-        },
         "entity_number": 88,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 8,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -5
-        },
         "entity_number": 89,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": -4
-        },
         "entity_number": 90,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 4,
-          "x": 3
-        },
         "entity_number": 91,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 3,
+          "y": 4
+        }
       },
       {
-        "position": {
-          "y": 5,
-          "x": 3
-        },
         "entity_number": 92,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 93,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -5,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": -4
-        },
-        "entity_number": 94,
         "direction": 4,
-        "name": "pipe-to-ground"
+        "entity_number": 94,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": -4
-        },
         "entity_number": 95,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -4,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": -3
-        },
+        "direction": 6,
         "entity_number": 96,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -3,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": -2
-        },
+        "direction": 2,
         "entity_number": 97,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": -1
-        },
         "entity_number": 98,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": -1
-        },
         "entity_number": 99,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 100,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": 0
-        },
+        "direction": 6,
         "entity_number": 101,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 1
-        },
         "entity_number": 102,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 1,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 2
-        },
+        "direction": 6,
         "entity_number": 103,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": 5
-        },
         "entity_number": 104,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": 4
-        },
+        "direction": 2,
         "entity_number": 105,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": 9
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 5
-        },
         "entity_number": 106,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 5,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 6
-        },
+        "direction": 2,
         "entity_number": 107,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 7
-        },
         "entity_number": 108,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 7,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 9,
-          "x": 6
-        },
+        "direction": 6,
         "entity_number": 109,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": 9
+        }
       },
       {
         "control_behavior": {
@@ -969,19 +969,19 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "water"
+                "name": "water",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": 9,
-          "x": 9
-        },
+        "direction": 6,
         "entity_number": 110,
-        "direction": 6,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": 9,
+          "y": 9
+        }
       },
       {
         "control_behavior": {
@@ -990,41 +990,41 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "crude-oil"
+                "name": "crude-oil",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": 8,
-          "x": 9
-        },
-        "entity_number": 111,
         "direction": 2,
-        "name": "constant-combinator"
+        "entity_number": 111,
+        "name": "constant-combinator",
+        "position": {
+          "x": 9,
+          "y": 8
+        }
       },
       {
-        "position": {
-          "y": 8,
-          "x": 8
-        },
-        "entity_number": 112,
         "direction": 6,
-        "name": "pipe-to-ground"
+        "entity_number": 112,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": 8
+        }
       }
     ],
-    "label": "Compact Solid Fuel Station",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "solid-fuel"
+          "name": "solid-fuel",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Compact Solid Fuel Station",
+    "version": 68722819072
   }
 }

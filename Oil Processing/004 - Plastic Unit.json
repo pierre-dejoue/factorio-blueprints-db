@@ -2,273 +2,273 @@
   "blueprint": {
     "entities": [
       {
-        "position": {
-          "y": -3,
-          "x": -8
-        },
+        "direction": 6,
         "entity_number": 1,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -8,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -7
-        },
+        "direction": 6,
         "entity_number": 2,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -7,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -6
-        },
+        "direction": 6,
         "entity_number": 3,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -6,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -5
-        },
+        "direction": 6,
         "entity_number": 4,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -5,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -4
-        },
+        "direction": 6,
         "entity_number": 5,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -4,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -3
-        },
+        "direction": 6,
         "entity_number": 6,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -3,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -2
-        },
+        "direction": 6,
         "entity_number": 7,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -2,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -4,
-          "x": -1
-        },
+        "direction": 4,
         "entity_number": 8,
-        "direction": 4,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -1,
+          "y": -4
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 0
-        },
+        "direction": 4,
         "entity_number": 9,
-        "direction": 4,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 0,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": -1
-        },
+        "direction": 6,
         "entity_number": 10,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -1,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 1
-        },
+        "direction": 6,
         "entity_number": 11,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 1,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 2
-        },
+        "direction": 6,
         "entity_number": 12,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 2,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 3
-        },
+        "direction": 6,
         "entity_number": 13,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 3,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 14,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 4,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 5
-        },
+        "direction": 6,
         "entity_number": 15,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 5,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -3,
-          "x": 6
-        },
+        "direction": 6,
         "entity_number": 16,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 6,
+          "y": -3
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -6
-        },
+        "direction": 4,
         "entity_number": 17,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": -6,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -6
-        },
+        "direction": 4,
         "entity_number": 18,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -6,
+          "y": 0
+        },
         "recipe": "plastic-bar"
       },
       {
-        "position": {
-          "y": -1,
-          "x": -4
-        },
         "entity_number": 19,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 20,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": -2
-        },
+        "direction": 4,
         "entity_number": 21,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": -2,
+          "y": 0
+        },
         "recipe": "plastic-bar"
       },
       {
-        "position": {
-          "y": -2,
-          "x": -1
-        },
         "entity_number": 22,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": -1,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 0
-        },
+        "direction": 6,
         "entity_number": 23,
-        "direction": 6,
-        "name": "fast-transport-belt"
+        "name": "fast-transport-belt",
+        "position": {
+          "x": 0,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 2
-        },
+        "direction": 4,
         "entity_number": 24,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 2
-        },
+        "direction": 4,
         "entity_number": 25,
-        "direction": 4,
         "name": "chemical-plant",
+        "position": {
+          "x": 2,
+          "y": 0
+        },
         "recipe": "plastic-bar"
       },
       {
-        "position": {
-          "y": -1,
-          "x": 4
-        },
         "entity_number": 26,
-        "name": "medium-electric-pole"
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -1
+        }
       },
       {
-        "position": {
-          "y": -2,
-          "x": 6
-        },
+        "direction": 4,
         "entity_number": 27,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": 6,
+          "y": -2
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 6
-        },
-        "entity_number": 28,
         "direction": 4,
+        "entity_number": 28,
         "name": "chemical-plant",
+        "position": {
+          "x": 6,
+          "y": 0
+        },
         "recipe": "plastic-bar"
       },
       {
-        "position": {
-          "y": 0,
-          "x": -4
-        },
         "entity_number": 29,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": -4,
+          "y": 0
+        }
       },
       {
-        "position": {
-          "y": 0,
-          "x": 4
-        },
         "entity_number": 30,
-        "name": "small-lamp"
+        "name": "small-lamp",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
       },
       {
         "control_behavior": {
@@ -277,19 +277,19 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "fluid",
-                "name": "petroleum-gas"
+                "name": "petroleum-gas",
+                "type": "fluid"
               }
             }
           ]
         },
-        "position": {
-          "y": 2,
-          "x": -8
-        },
+        "direction": 4,
         "entity_number": 31,
-        "direction": 4,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": -8,
+          "y": 2
+        }
       },
       {
         "control_behavior": {
@@ -298,289 +298,289 @@
               "count": 1,
               "index": 1,
               "signal": {
-                "type": "item",
-                "name": "coal"
+                "name": "coal",
+                "type": "item"
               }
             }
           ]
         },
-        "position": {
-          "y": 3,
-          "x": -8
-        },
+        "direction": 4,
         "entity_number": 32,
-        "direction": 4,
-        "name": "constant-combinator"
+        "name": "constant-combinator",
+        "position": {
+          "x": -8,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -6
-        },
+        "direction": 2,
         "entity_number": 33,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -6,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -7
-        },
+        "direction": 4,
         "entity_number": 34,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": -7,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -6
-        },
+        "direction": 2,
         "entity_number": 35,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -6,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -7
-        },
+        "direction": 2,
         "entity_number": 36,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -7,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -4
-        },
+        "direction": 6,
         "entity_number": 37,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -4,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -5
-        },
         "entity_number": 38,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -4
-        },
+        "direction": 2,
         "entity_number": 39,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -4,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -5
-        },
+        "direction": 2,
         "entity_number": 40,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -2
-        },
+        "direction": 2,
         "entity_number": 41,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": -2,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -3
-        },
+        "direction": 4,
         "entity_number": 42,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": -3,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -2
-        },
+        "direction": 2,
         "entity_number": 43,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -2,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -3
-        },
+        "direction": 2,
         "entity_number": 44,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -3,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 0
-        },
+        "direction": 6,
         "entity_number": 45,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": -1
-        },
         "entity_number": 46,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": -1,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 0
-        },
+        "direction": 2,
         "entity_number": 47,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": -1
-        },
+        "direction": 2,
         "entity_number": 48,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 2
-        },
+        "direction": 2,
         "entity_number": 49,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 1
-        },
+        "direction": 4,
         "entity_number": 50,
-        "direction": 4,
-        "name": "inserter"
+        "name": "inserter",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 2
-        },
+        "direction": 2,
         "entity_number": 51,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 2,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 1
-        },
+        "direction": 2,
         "entity_number": 52,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 4
-        },
+        "direction": 6,
         "entity_number": 53,
-        "direction": 6,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 4,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 3
-        },
         "entity_number": 54,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 3,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 4
-        },
+        "direction": 2,
         "entity_number": 55,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 3
-        },
+        "direction": 2,
         "entity_number": 56,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 3,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 6
-        },
+        "direction": 2,
         "entity_number": 57,
-        "direction": 2,
-        "name": "pipe-to-ground"
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 6,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 3,
-          "x": 5
-        },
+        "direction": 2,
         "entity_number": 58,
-        "direction": 2,
-        "name": "transport-belt"
+        "name": "transport-belt",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 5
-        },
-        "entity_number": 59,
         "direction": 4,
-        "name": "inserter"
+        "entity_number": 59,
+        "name": "inserter",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 8
-        },
-        "entity_number": 60,
         "direction": 6,
-        "name": "pipe-to-ground"
+        "entity_number": 60,
+        "name": "pipe-to-ground",
+        "position": {
+          "x": 8,
+          "y": 2
+        }
       },
       {
-        "position": {
-          "y": 2,
-          "x": 7
-        },
         "entity_number": 61,
-        "name": "pipe"
+        "name": "pipe",
+        "position": {
+          "x": 7,
+          "y": 2
+        }
       }
     ],
-    "label": "Plastic Unit",
-    "version": 68722819072,
-    "item": "blueprint",
     "icons": [
       {
         "index": 1,
         "signal": {
-          "type": "item",
-          "name": "plastic-bar"
+          "name": "plastic-bar",
+          "type": "item"
         }
       }
-    ]
+    ],
+    "item": "blueprint",
+    "label": "Plastic Unit",
+    "version": 68722819072
   }
 }
