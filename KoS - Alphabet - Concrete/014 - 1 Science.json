@@ -4,21 +4,21 @@
       {
         "index": 1,
         "signal": {
-          "name": "science-pack-1",
+          "name": "automation-science-pack",
           "type": "item"
         }
       },
       {
         "index": 2,
         "signal": {
-          "name": "science-pack-2",
+          "name": "logistic-science-pack",
           "type": "item"
         }
       },
       {
         "index": 3,
         "signal": {
-          "name": "science-pack-3",
+          "name": "chemical-science-pack",
           "type": "item"
         }
       },

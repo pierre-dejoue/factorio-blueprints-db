@@ -276,7 +276,7 @@
           "x": -9,
           "y": -21
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "entity_number": 33,
@@ -325,7 +325,7 @@
           "x": -15,
           "y": -18
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "entity_number": 39,
@@ -358,7 +358,7 @@
           "x": -9,
           "y": -18
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "direction": 2,
@@ -613,7 +613,7 @@
           "x": -15,
           "y": -15
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "direction": 6,
@@ -665,7 +665,7 @@
           "x": -9,
           "y": -15
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "direction": 2,
@@ -771,7 +771,7 @@
           "x": -15,
           "y": -12
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "entity_number": 93,
@@ -796,7 +796,7 @@
           "x": -9,
           "y": -12
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "entity_number": 96,
@@ -1058,7 +1058,7 @@
           "x": -15,
           "y": -9
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "direction": 6,
@@ -1101,7 +1101,7 @@
           "x": -9,
           "y": -9
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "direction": 2,
@@ -1191,7 +1191,7 @@
           "x": -15,
           "y": -6
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "entity_number": 144,
@@ -1224,7 +1224,7 @@
           "x": -9,
           "y": -6
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "entity_number": 148,
@@ -1478,7 +1478,7 @@
           "x": -15,
           "y": -3
         },
-        "recipe": "science-pack-1"
+        "recipe": "automation-science-pack"
       },
       {
         "direction": 6,
@@ -1513,7 +1513,7 @@
           "x": -9,
           "y": -3
         },
-        "recipe": "science-pack-2"
+        "recipe": "logistic-science-pack"
       },
       {
         "entity_number": 183,
@@ -8066,14 +8066,14 @@
       {
         "index": 1,
         "signal": {
-          "name": "science-pack-1",
+          "name": "automation-science-pack",
           "type": "item"
         }
       },
       {
         "index": 2,
         "signal": {
-          "name": "science-pack-2",
+          "name": "logistic-science-pack",
           "type": "item"
         }
       },
