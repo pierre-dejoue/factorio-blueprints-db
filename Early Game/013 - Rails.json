@@ -2,142 +2,138 @@
   "blueprint": {
     "entities": [
       {
+        "direction": 6,
         "entity_number": 1,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
-          "x": -3,
-          "y": -10
+          "x": -13,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 2,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": -3,
-          "y": -9
+          "x": -12,
+          "y": -3
         }
       },
       {
-        "direction": 2,
+        "direction": 6,
         "entity_number": 3,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": -1,
-          "y": -10
+          "x": -11,
+          "y": -3
         }
       },
       {
         "direction": 6,
         "entity_number": 4,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": -2,
-          "y": -10
+          "x": -10,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 5,
-        "items": {
-          "speed-module": 1
-        },
-        "name": "chemical-plant",
+        "name": "transport-belt",
         "position": {
-          "x": 1,
-          "y": -8
-        },
-        "recipe": "solid-fuel-from-light-oil"
+          "x": -9,
+          "y": -3
+        }
       },
       {
+        "direction": 6,
         "entity_number": 6,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
-          "x": 0,
-          "y": -10
+          "x": -8,
+          "y": -3
         }
       },
       {
         "direction": 6,
         "entity_number": 7,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 1,
-          "y": -10
+          "x": -7,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 8,
-        "items": {
-          "speed-module": 1
-        },
-        "name": "chemical-plant",
+        "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": -8
-        },
-        "recipe": "solid-fuel-from-light-oil"
-      },
-      {
-        "direction": 2,
-        "entity_number": 9,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 2,
-          "y": -10
+          "x": -6,
+          "y": -3
         }
       },
       {
-        "entity_number": 10,
-        "name": "pipe",
+        "direction": 6,
+        "entity_number": 9,
+        "name": "transport-belt",
         "position": {
-          "x": 3,
-          "y": -10
+          "x": -5,
+          "y": -3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 10,
+        "name": "transport-belt",
+        "position": {
+          "x": -4,
+          "y": -3
         }
       },
       {
         "direction": 6,
         "entity_number": 11,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": -10
+          "x": -3,
+          "y": -3
         }
       },
       {
-        "direction": 2,
+        "direction": 6,
         "entity_number": 12,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 5,
-          "y": -10
+          "x": -2,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 13,
-        "items": {
-          "speed-module": 1
-        },
-        "name": "chemical-plant",
+        "name": "transport-belt",
         "position": {
-          "x": 7,
-          "y": -8
-        },
-        "recipe": "solid-fuel-from-light-oil"
+          "x": -1,
+          "y": -3
+        }
       },
       {
+        "direction": 6,
         "entity_number": 14,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
-          "x": 6,
-          "y": -10
+          "x": 0,
+          "y": -3
         }
       },
       {
         "direction": 6,
         "entity_number": 15,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 7,
-          "y": -10
+          "x": 1,
+          "y": -3
         }
       },
       {
@@ -145,8 +141,8 @@
         "entity_number": 16,
         "name": "transport-belt",
         "position": {
-          "x": -9,
-          "y": -5
+          "x": 2,
+          "y": -3
         }
       },
       {
@@ -154,8 +150,8 @@
         "entity_number": 17,
         "name": "transport-belt",
         "position": {
-          "x": -8,
-          "y": -5
+          "x": 2,
+          "y": -4
         }
       },
       {
@@ -163,8 +159,8 @@
         "entity_number": 18,
         "name": "transport-belt",
         "position": {
-          "x": -7,
-          "y": -5
+          "x": 3,
+          "y": -3
         }
       },
       {
@@ -172,8 +168,8 @@
         "entity_number": 19,
         "name": "transport-belt",
         "position": {
-          "x": -5,
-          "y": -5
+          "x": 3,
+          "y": -4
         }
       },
       {
@@ -181,8 +177,8 @@
         "entity_number": 20,
         "name": "transport-belt",
         "position": {
-          "x": -6,
-          "y": -5
+          "x": 4,
+          "y": -3
         }
       },
       {
@@ -190,8 +186,8 @@
         "entity_number": 21,
         "name": "transport-belt",
         "position": {
-          "x": -3,
-          "y": -5
+          "x": 5,
+          "y": -3
         }
       },
       {
@@ -199,8 +195,8 @@
         "entity_number": 22,
         "name": "transport-belt",
         "position": {
-          "x": -4,
-          "y": -5
+          "x": 4,
+          "y": -4
         }
       },
       {
@@ -208,8 +204,8 @@
         "entity_number": 23,
         "name": "transport-belt",
         "position": {
-          "x": -1,
-          "y": -5
+          "x": 5,
+          "y": -4
         }
       },
       {
@@ -217,16 +213,17 @@
         "entity_number": 24,
         "name": "transport-belt",
         "position": {
-          "x": -2,
-          "y": -5
+          "x": 6,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 25,
-        "name": "inserter",
+        "name": "transport-belt",
         "position": {
-          "x": 1,
-          "y": -6
+          "x": 7,
+          "y": -3
         }
       },
       {
@@ -234,8 +231,8 @@
         "entity_number": 26,
         "name": "transport-belt",
         "position": {
-          "x": 1,
-          "y": -5
+          "x": 6,
+          "y": -4
         }
       },
       {
@@ -243,8 +240,8 @@
         "entity_number": 27,
         "name": "transport-belt",
         "position": {
-          "x": 0,
-          "y": -5
+          "x": 7,
+          "y": -4
         }
       },
       {
@@ -252,8 +249,8 @@
         "entity_number": 28,
         "name": "transport-belt",
         "position": {
-          "x": 2,
-          "y": -5
+          "x": 8,
+          "y": -3
         }
       },
       {
@@ -261,16 +258,17 @@
         "entity_number": 29,
         "name": "transport-belt",
         "position": {
-          "x": 3,
-          "y": -5
+          "x": 9,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 30,
-        "name": "small-lamp",
+        "name": "transport-belt",
         "position": {
-          "x": 3,
-          "y": -6
+          "x": 8,
+          "y": -4
         }
       },
       {
@@ -278,8 +276,8 @@
         "entity_number": 31,
         "name": "transport-belt",
         "position": {
-          "x": 5,
-          "y": -5
+          "x": 9,
+          "y": -4
         }
       },
       {
@@ -287,24 +285,26 @@
         "entity_number": 32,
         "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": -5
+          "x": 10,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 33,
-        "name": "inserter",
+        "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": -6
+          "x": 11,
+          "y": -3
         }
       },
       {
+        "direction": 6,
         "entity_number": 34,
-        "name": "inserter",
+        "name": "transport-belt",
         "position": {
-          "x": 6,
-          "y": -6
+          "x": 10,
+          "y": -4
         }
       },
       {
@@ -312,184 +312,294 @@
         "entity_number": 35,
         "name": "transport-belt",
         "position": {
-          "x": 6,
-          "y": -5
+          "x": 11,
+          "y": -4
         }
       },
       {
-        "direction": 6,
-        "entity_number": 36,
-        "name": "transport-belt",
-        "position": {
-          "x": 7,
-          "y": -5
-        }
-      },
-      {
-        "direction": 6,
-        "entity_number": 37,
-        "name": "transport-belt",
-        "position": {
-          "x": 8,
-          "y": -5
-        }
-      },
-      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "iron-plate",
+                "type": "item"
+              }
+            }
+          ]
+        },
         "direction": 4,
-        "entity_number": 38,
-        "name": "pipe-to-ground",
+        "entity_number": 36,
+        "name": "constant-combinator",
         "position": {
-          "x": -3,
+          "x": 13,
           "y": -3
         }
       },
       {
-        "direction": 4,
-        "entity_number": 39,
-        "items": {
-          "speed-module": 2
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "stone",
+                "type": "item"
+              }
+            }
+          ]
         },
-        "name": "chemical-plant",
-        "position": {
-          "x": 1,
-          "y": -2
-        },
-        "recipe": "solid-fuel-from-petroleum-gas"
-      },
-      {
         "direction": 4,
-        "entity_number": 40,
-        "name": "inserter",
+        "entity_number": 37,
+        "name": "constant-combinator",
         "position": {
-          "x": 1,
+          "x": 13,
           "y": -4
         }
       },
       {
-        "direction": 4,
-        "entity_number": 41,
-        "items": {
-          "speed-module": 1
-        },
-        "name": "chemical-plant",
+        "direction": 6,
+        "entity_number": 38,
+        "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": -2
+          "x": 12,
+          "y": -3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 39,
+        "name": "transport-belt",
+        "position": {
+          "x": 12,
+          "y": -4
+        }
+      },
+      {
+        "entity_number": 40,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": -13,
+          "y": 0
         },
-        "recipe": "solid-fuel-from-light-oil"
+        "recipe": "rail-signal"
+      },
+      {
+        "entity_number": 41,
+        "name": "fast-inserter",
+        "position": {
+          "x": -12,
+          "y": -2
+        }
       },
       {
         "entity_number": 42,
+        "name": "small-lamp",
+        "position": {
+          "x": -10,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 43,
         "name": "medium-electric-pole",
         "position": {
-          "x": 3,
-          "y": -4
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 43,
-        "name": "inserter",
-        "position": {
-          "x": 4,
-          "y": -4
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 44,
-        "items": {
-          "speed-module": 2
-        },
-        "name": "chemical-plant",
-        "position": {
-          "x": 7,
-          "y": -2
-        },
-        "recipe": "solid-fuel-from-petroleum-gas"
-      },
-      {
-        "direction": 4,
-        "entity_number": 45,
-        "name": "inserter",
-        "position": {
-          "x": 6,
-          "y": -4
-        }
-      },
-      {
-        "direction": 4,
-        "entity_number": 46,
-        "name": "chemical-plant",
-        "position": {
-          "x": -5,
-          "y": 0
-        },
-        "recipe": "heavy-oil-cracking"
-      },
-      {
-        "direction": 2,
-        "entity_number": 47,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -5,
-          "y": -2
-        }
-      },
-      {
-        "entity_number": 48,
-        "name": "pipe",
-        "position": {
-          "x": -3,
-          "y": -2
-        }
-      },
-      {
-        "entity_number": 49,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -3,
+          "x": -10,
           "y": -1
         }
       },
       {
-        "entity_number": 50,
-        "name": "pipe",
+        "entity_number": 44,
+        "name": "fast-inserter",
+        "position": {
+          "x": -8,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 45,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": -7,
+          "y": 0
+        },
+        "recipe": "rail-chain-signal"
+      },
+      {
+        "entity_number": 46,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": -4,
+          "y": 0
+        },
+        "recipe": "train-stop"
+      },
+      {
+        "entity_number": 47,
+        "name": "inserter",
         "position": {
           "x": -4,
           "y": -2
         }
       },
       {
-        "direction": 4,
-        "entity_number": 51,
-        "name": "pipe-to-ground",
+        "entity_number": 48,
+        "name": "small-lamp",
         "position": {
-          "x": -3,
+          "x": -1,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 49,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -1,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 50,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": 2,
           "y": 0
+        },
+        "recipe": "rail"
+      },
+      {
+        "entity_number": 51,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": -2
         }
       },
       {
         "entity_number": 52,
-        "name": "pipe",
+        "name": "medium-electric-pole",
         "position": {
-          "x": -3,
-          "y": 1
+          "x": 4,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 53,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": 6,
+          "y": 0
+        },
+        "recipe": "iron-stick"
+      },
+      {
+        "entity_number": 54,
+        "name": "inserter",
+        "position": {
+          "x": 6,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 55,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 8,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 56,
+        "name": "assembling-machine-2",
+        "position": {
+          "x": 10,
+          "y": 0
+        },
+        "recipe": "rail"
+      },
+      {
+        "entity_number": 57,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 10,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 58,
+        "name": "small-lamp",
+        "position": {
+          "x": 12,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 59,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 12,
+          "y": -1
         }
       },
       {
         "direction": 6,
-        "entity_number": 53,
-        "name": "pipe-to-ground",
+        "entity_number": 60,
+        "name": "inserter",
         "position": {
-          "x": -2,
-          "y": 1
+          "x": -11,
+          "y": 0
         }
       },
       {
         "direction": 2,
-        "entity_number": 54,
-        "name": "pipe-to-ground",
+        "entity_number": 61,
+        "name": "inserter",
+        "position": {
+          "x": -9,
+          "y": 1
+        }
+      },
+      {
+        "bar": 2,
+        "entity_number": 62,
+        "name": "wooden-chest",
+        "position": {
+          "x": -10,
+          "y": 1
+        }
+      },
+      {
+        "bar": 2,
+        "entity_number": 63,
+        "name": "wooden-chest",
+        "position": {
+          "x": -10,
+          "y": 0
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 64,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": 0
+        }
+      },
+      {
+        "bar": 1,
+        "entity_number": 65,
+        "name": "wooden-chest",
+        "position": {
+          "x": -1,
+          "y": 0
+        }
+      },
+      {
+        "bar": 8,
+        "entity_number": 66,
+        "name": "wooden-chest",
         "position": {
           "x": -1,
           "y": 1
@@ -497,520 +607,452 @@
       },
       {
         "direction": 2,
-        "entity_number": 55,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 1,
-          "y": 0
-        }
-      },
-      {
-        "direction": 6,
-        "entity_number": 56,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 1,
-          "y": 1
-        }
-      },
-      {
-        "entity_number": 57,
-        "name": "pipe",
-        "position": {
-          "x": 0,
-          "y": 1
-        }
-      },
-      {
-        "direction": 6,
-        "entity_number": 58,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 3,
-          "y": 0
-        }
-      },
-      {
-        "entity_number": 59,
-        "name": "pipe",
-        "position": {
-          "x": 2,
-          "y": 0
-        }
-      },
-      {
-        "entity_number": 60,
-        "name": "pipe",
-        "position": {
-          "x": 2,
-          "y": 1
-        }
-      },
-      {
-        "entity_number": 61,
-        "name": "pipe",
-        "position": {
-          "x": 5,
-          "y": 0
-        }
-      },
-      {
-        "entity_number": 62,
-        "name": "pipe",
-        "position": {
-          "x": 5,
-          "y": 1
-        }
-      },
-      {
-        "direction": 2,
-        "entity_number": 63,
-        "name": "pipe-to-ground",
+        "entity_number": 67,
+        "name": "inserter",
         "position": {
           "x": 4,
-          "y": 1
-        }
-      },
-      {
-        "entity_number": 64,
-        "name": "pipe",
-        "position": {
-          "x": 6,
-          "y": 1
-        }
-      },
-      {
-        "direction": 6,
-        "entity_number": 65,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 7,
-          "y": 1
-        }
-      },
-      {
-        "direction": 2,
-        "entity_number": 66,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": 7,
-          "y": 0
-        }
-      },
-      {
-        "entity_number": 67,
-        "name": "pipe",
-        "position": {
-          "x": 8,
           "y": 0
         }
       },
       {
         "direction": 6,
         "entity_number": 68,
-        "name": "pipe-to-ground",
+        "name": "inserter",
         "position": {
-          "x": 9,
+          "x": 8,
           "y": 0
         }
       },
       {
+        "direction": 4,
         "entity_number": 69,
-        "name": "pipe",
+        "name": "long-handed-inserter",
         "position": {
-          "x": 8,
-          "y": 1
-        }
-      },
-      {
-        "direction": 2,
-        "entity_number": 70,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -7,
+          "x": -12,
           "y": 2
         }
       },
       {
-        "entity_number": 71,
-        "name": "pipe",
+        "direction": 4,
+        "entity_number": 70,
+        "name": "long-handed-inserter",
         "position": {
-          "x": -6,
+          "x": -8,
+          "y": 2
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 71,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -4,
+          "y": 2
+        }
+      },
+      {
+        "direction": 4,
+        "entity_number": 72,
+        "name": "fast-inserter",
+        "position": {
+          "x": -1,
           "y": 2
         }
       },
       {
         "direction": 6,
-        "entity_number": 72,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -5,
-          "y": 2
-        }
-      },
-      {
-        "direction": 2,
         "entity_number": 73,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": -5,
+          "x": -1,
           "y": 3
         }
       },
       {
-        "direction": 2,
         "entity_number": 74,
-        "name": "pipe-to-ground",
+        "name": "inserter",
         "position": {
-          "x": -3,
+          "x": 1,
           "y": 2
         }
       },
       {
         "direction": 6,
         "entity_number": 75,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -3,
-          "y": 3
-        }
-      },
-      {
-        "entity_number": 76,
-        "name": "pipe",
-        "position": {
-          "x": -4,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 77,
-        "name": "pipe",
-        "position": {
-          "x": -4,
-          "y": 3
-        }
-      },
-      {
-        "entity_number": 78,
-        "name": "oil-refinery",
+        "name": "transport-belt",
         "position": {
           "x": 0,
-          "y": 5
-        },
-        "recipe": "advanced-oil-processing"
+          "y": 3
+        }
       },
       {
         "direction": 6,
-        "entity_number": 79,
-        "name": "pipe-to-ground",
+        "entity_number": 76,
+        "name": "transport-belt",
         "position": {
-          "x": -1,
-          "y": 2
+          "x": 1,
+          "y": 3
         }
       },
       {
-        "entity_number": 80,
-        "name": "pipe",
-        "position": {
-          "x": -2,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 81,
-        "name": "pipe",
-        "position": {
-          "x": 0,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 82,
-        "name": "pipe",
+        "direction": 4,
+        "entity_number": 77,
+        "name": "long-handed-inserter",
         "position": {
           "x": 2,
           "y": 2
         }
       },
       {
-        "direction": 2,
-        "entity_number": 83,
-        "name": "pipe-to-ground",
+        "direction": 6,
+        "entity_number": 78,
+        "name": "transport-belt",
+        "position": {
+          "x": 2,
+          "y": 3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 79,
+        "name": "transport-belt",
         "position": {
           "x": 3,
-          "y": 2
+          "y": 3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 80,
+        "name": "transport-belt",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 81,
+        "name": "transport-belt",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 82,
+        "name": "transport-belt",
+        "position": {
+          "x": 6,
+          "y": 3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 83,
+        "name": "transport-belt",
+        "position": {
+          "x": 7,
+          "y": 3
         }
       },
       {
         "entity_number": 84,
-        "name": "oil-refinery",
+        "name": "inserter",
         "position": {
-          "x": 6,
-          "y": 5
-        },
-        "recipe": "advanced-oil-processing"
+          "x": 9,
+          "y": 2
+        }
       },
       {
+        "direction": 6,
         "entity_number": 85,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
-          "x": 4,
-          "y": 2
+          "x": 8,
+          "y": 3
         }
       },
       {
         "direction": 6,
         "entity_number": 86,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 5,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 87,
-        "name": "pipe",
-        "position": {
-          "x": 6,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 88,
-        "name": "pipe",
-        "position": {
-          "x": 8,
-          "y": 2
-        }
-      },
-      {
-        "entity_number": 89,
-        "name": "medium-electric-pole",
-        "position": {
-          "x": -5,
-          "y": 4
-        }
-      },
-      {
-        "entity_number": 90,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -4,
-          "y": 4
-        }
-      },
-      {
-        "entity_number": 91,
-        "name": "medium-electric-pole",
-        "position": {
-          "x": 3,
-          "y": 4
-        }
-      },
-      {
-        "entity_number": 92,
-        "name": "small-lamp",
-        "position": {
-          "x": 3,
-          "y": 5
-        }
-      },
-      {
-        "direction": 2,
-        "entity_number": 93,
-        "name": "pipe-to-ground",
-        "position": {
-          "x": -5,
-          "y": 9
+          "x": 9,
+          "y": 3
         }
       },
       {
         "direction": 4,
-        "entity_number": 94,
-        "name": "pipe-to-ground",
+        "entity_number": 87,
+        "name": "long-handed-inserter",
         "position": {
-          "x": -4,
-          "y": 8
+          "x": 10,
+          "y": 2
         }
       },
       {
-        "entity_number": 95,
-        "name": "pipe",
+        "direction": 6,
+        "entity_number": 88,
+        "name": "transport-belt",
         "position": {
-          "x": -4,
-          "y": 9
+          "x": -13,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 89,
+        "name": "transport-belt",
+        "position": {
+          "x": -12,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 90,
+        "name": "transport-belt",
+        "position": {
+          "x": -11,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 91,
+        "name": "transport-belt",
+        "position": {
+          "x": -10,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 92,
+        "name": "transport-belt",
+        "position": {
+          "x": -9,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 93,
+        "name": "transport-belt",
+        "position": {
+          "x": -8,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 94,
+        "name": "transport-belt",
+        "position": {
+          "x": -7,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 95,
+        "name": "transport-belt",
+        "position": {
+          "x": -6,
+          "y": 4
         }
       },
       {
         "direction": 6,
         "entity_number": 96,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 97,
+        "name": "transport-belt",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 98,
+        "name": "transport-belt",
         "position": {
           "x": -3,
-          "y": 9
+          "y": 4
         }
       },
       {
-        "direction": 2,
-        "entity_number": 97,
-        "name": "pipe-to-ground",
+        "direction": 6,
+        "entity_number": 99,
+        "name": "transport-belt",
         "position": {
           "x": -2,
-          "y": 9
+          "y": 4
         }
       },
       {
-        "entity_number": 98,
-        "name": "pipe",
-        "position": {
-          "x": -1,
-          "y": 9
-        }
-      },
-      {
-        "entity_number": 99,
-        "name": "pipe",
-        "position": {
-          "x": -1,
-          "y": 8
-        }
-      },
-      {
-        "direction": 2,
+        "direction": 6,
         "entity_number": 100,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 0,
-          "y": 8
+          "x": -1,
+          "y": 4
         }
       },
       {
         "direction": 6,
         "entity_number": 101,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
           "x": 0,
-          "y": 9
+          "y": 4
         }
       },
       {
+        "direction": 6,
         "entity_number": 102,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
           "x": 1,
-          "y": 8
+          "y": 4
         }
       },
       {
         "direction": 6,
         "entity_number": 103,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
           "x": 2,
-          "y": 8
+          "y": 4
         }
       },
       {
+        "direction": 6,
         "entity_number": 104,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
-          "x": 5,
-          "y": 9
+          "x": 3,
+          "y": 4
         }
       },
       {
-        "direction": 2,
+        "direction": 6,
         "entity_number": 105,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
           "x": 4,
-          "y": 9
+          "y": 4
         }
       },
       {
+        "direction": 6,
         "entity_number": 106,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
           "x": 5,
-          "y": 8
+          "y": 4
         }
       },
       {
-        "direction": 2,
+        "direction": 6,
         "entity_number": 107,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
           "x": 6,
-          "y": 8
+          "y": 4
         }
       },
       {
+        "direction": 6,
         "entity_number": 108,
-        "name": "pipe",
+        "name": "transport-belt",
         "position": {
           "x": 7,
-          "y": 8
+          "y": 4
         }
       },
       {
         "direction": 6,
         "entity_number": 109,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 6,
-          "y": 9
+          "x": 8,
+          "y": 4
         }
       },
       {
-        "control_behavior": {
-          "filters": [
-            {
-              "count": 1,
-              "index": 1,
-              "signal": {
-                "name": "water",
-                "type": "fluid"
-              }
-            }
-          ]
-        },
         "direction": 6,
         "entity_number": 110,
-        "name": "constant-combinator",
+        "name": "transport-belt",
         "position": {
           "x": 9,
-          "y": 9
+          "y": 4
         }
       },
       {
-        "control_behavior": {
-          "filters": [
-            {
-              "count": 1,
-              "index": 1,
-              "signal": {
-                "name": "crude-oil",
-                "type": "fluid"
-              }
-            }
-          ]
-        },
-        "direction": 2,
+        "direction": 6,
         "entity_number": 111,
-        "name": "constant-combinator",
+        "name": "transport-belt",
         "position": {
-          "x": 9,
-          "y": 8
+          "x": 10,
+          "y": 4
         }
       },
       {
         "direction": 6,
         "entity_number": 112,
-        "name": "pipe-to-ground",
+        "name": "transport-belt",
         "position": {
-          "x": 8,
-          "y": 8
+          "x": 11,
+          "y": 4
+        }
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "steel-plate",
+                "type": "item"
+              }
+            },
+            {
+              "count": 1,
+              "index": 2,
+              "signal": {
+                "name": "electronic-circuit",
+                "type": "item"
+              }
+            }
+          ]
+        },
+        "direction": 4,
+        "entity_number": 113,
+        "name": "constant-combinator",
+        "position": {
+          "x": 13,
+          "y": 4
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 114,
+        "name": "transport-belt",
+        "position": {
+          "x": 12,
+          "y": 4
         }
       }
     ],
@@ -1018,13 +1060,34 @@
       {
         "index": 1,
         "signal": {
-          "name": "solid-fuel",
+          "name": "rail",
+          "type": "item"
+        }
+      },
+      {
+        "index": 2,
+        "signal": {
+          "name": "rail-signal",
+          "type": "item"
+        }
+      },
+      {
+        "index": 3,
+        "signal": {
+          "name": "rail",
+          "type": "item"
+        }
+      },
+      {
+        "index": 4,
+        "signal": {
+          "name": "rail-chain-signal",
           "type": "item"
         }
       }
     ],
     "item": "blueprint",
-    "label": "Compact Solid Fuel Station",
+    "label": "Rails",
     "version": 73016541185
   }
 }

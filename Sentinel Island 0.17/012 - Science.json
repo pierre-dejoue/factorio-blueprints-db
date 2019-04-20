@@ -1,0 +1,7474 @@
+{
+  "blueprint": {
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": -15
+        }
+      },
+      {
+        "entity_number": 2,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": -15
+        }
+      },
+      {
+        "entity_number": 3,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -17
+        }
+      },
+      {
+        "entity_number": 4,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -16
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 5,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": -16
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 6,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": -16
+        }
+      },
+      {
+        "entity_number": 7,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -16
+        }
+      },
+      {
+        "entity_number": 8,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": -15
+        }
+      },
+      {
+        "entity_number": 9,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -17
+        }
+      },
+      {
+        "entity_number": 10,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": -15
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 11,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": -15
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 12,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": -14
+        }
+      },
+      {
+        "entity_number": 13,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -15
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 14,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": -15
+        }
+      },
+      {
+        "entity_number": 15,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -14
+        }
+      },
+      {
+        "entity_number": 16,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -14
+        }
+      },
+      {
+        "entity_number": 17,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -15
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 18,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -15
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 19,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": -14
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 20,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": -15
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 21,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": -15
+        }
+      },
+      {
+        "entity_number": 22,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": -11
+        }
+      },
+      {
+        "entity_number": 23,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": -11
+        }
+      },
+      {
+        "entity_number": 24,
+        "name": "small-lamp",
+        "position": {
+          "x": -5,
+          "y": -13
+        }
+      },
+      {
+        "entity_number": 25,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -13
+        }
+      },
+      {
+        "entity_number": 26,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -12
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 27,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": -12
+        }
+      },
+      {
+        "entity_number": 28,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -13
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 29,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": -12
+        }
+      },
+      {
+        "entity_number": 30,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -12
+        }
+      },
+      {
+        "entity_number": 31,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -13
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 32,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -13
+        }
+      },
+      {
+        "entity_number": 33,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": -11
+        }
+      },
+      {
+        "entity_number": 34,
+        "name": "small-lamp",
+        "position": {
+          "x": 5,
+          "y": -13
+        }
+      },
+      {
+        "entity_number": 35,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -13
+        }
+      },
+      {
+        "entity_number": 36,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": -11
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 37,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": -11
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 38,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": -10
+        }
+      },
+      {
+        "entity_number": 39,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -11
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 40,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": -11
+        }
+      },
+      {
+        "entity_number": 41,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -10
+        }
+      },
+      {
+        "entity_number": 42,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -10
+        }
+      },
+      {
+        "entity_number": 43,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -11
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 44,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -11
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 45,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": -10
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 46,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": -11
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 47,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": -11
+        }
+      },
+      {
+        "entity_number": 48,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": -7
+        }
+      },
+      {
+        "entity_number": 49,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": -7
+        }
+      },
+      {
+        "entity_number": 50,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -9
+        }
+      },
+      {
+        "entity_number": 51,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -8
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 52,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": -8
+        }
+      },
+      {
+        "entity_number": 53,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -9
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 54,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": -8
+        }
+      },
+      {
+        "entity_number": 55,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -8
+        }
+      },
+      {
+        "entity_number": 56,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -9
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 57,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -9
+        }
+      },
+      {
+        "entity_number": 58,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": -7
+        }
+      },
+      {
+        "entity_number": 59,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -9
+        }
+      },
+      {
+        "entity_number": 60,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": -7
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 61,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": -7
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 62,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": -6
+        }
+      },
+      {
+        "entity_number": 63,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -7
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 64,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": -7
+        }
+      },
+      {
+        "entity_number": 65,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -6
+        }
+      },
+      {
+        "entity_number": 66,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -6
+        }
+      },
+      {
+        "entity_number": 67,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -7
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 68,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -7
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 69,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": -6
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 70,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": -7
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 71,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": -7
+        }
+      },
+      {
+        "entity_number": 72,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": -3
+        }
+      },
+      {
+        "entity_number": 73,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": -3
+        }
+      },
+      {
+        "entity_number": 74,
+        "name": "small-lamp",
+        "position": {
+          "x": -5,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 75,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 76,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": -4
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 77,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": -4
+        }
+      },
+      {
+        "entity_number": 78,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -5
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 79,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
+      },
+      {
+        "entity_number": 80,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -4
+        }
+      },
+      {
+        "entity_number": 81,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -5
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 82,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 83,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": -3
+        }
+      },
+      {
+        "entity_number": 84,
+        "name": "small-lamp",
+        "position": {
+          "x": 5,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 85,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -5
+        }
+      },
+      {
+        "entity_number": 86,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": -3
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 87,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": -3
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 88,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 89,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -3
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 90,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": -3
+        }
+      },
+      {
+        "entity_number": 91,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 92,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -2
+        }
+      },
+      {
+        "entity_number": 93,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -3
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 94,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 95,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": -2
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 96,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": -3
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 97,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": -3
+        }
+      },
+      {
+        "entity_number": 98,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": 1
+        }
+      },
+      {
+        "entity_number": 99,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": 1
+        }
+      },
+      {
+        "entity_number": 100,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 101,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 0
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 102,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": 0
+        }
+      },
+      {
+        "entity_number": 103,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": -1
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 104,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
+      },
+      {
+        "entity_number": 105,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "entity_number": 106,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": -1
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 107,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 108,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": 1
+        }
+      },
+      {
+        "entity_number": 109,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": -1
+        }
+      },
+      {
+        "entity_number": 110,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": 1
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 111,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": 1
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 112,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "entity_number": 113,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 1
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 114,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": 1
+        }
+      },
+      {
+        "entity_number": 115,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
+      },
+      {
+        "entity_number": 116,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
+      },
+      {
+        "entity_number": 117,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 118,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 1
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 119,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 120,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": 1
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 121,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
+      },
+      {
+        "entity_number": 122,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": 5
+        }
+      },
+      {
+        "entity_number": 123,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": 5
+        }
+      },
+      {
+        "entity_number": 124,
+        "name": "small-lamp",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
+      },
+      {
+        "entity_number": 125,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": 3
+        }
+      },
+      {
+        "entity_number": 126,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 4
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 127,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": 4
+        }
+      },
+      {
+        "entity_number": 128,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 3
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 129,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": 4
+        }
+      },
+      {
+        "entity_number": 130,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 4
+        }
+      },
+      {
+        "entity_number": 131,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 3
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 132,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
+      },
+      {
+        "entity_number": 133,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": 5
+        }
+      },
+      {
+        "entity_number": 134,
+        "name": "small-lamp",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      {
+        "entity_number": 135,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "entity_number": 136,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": 5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 137,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": 5
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 138,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": 6
+        }
+      },
+      {
+        "entity_number": 139,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 5
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 140,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": 5
+        }
+      },
+      {
+        "entity_number": 141,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 6
+        }
+      },
+      {
+        "entity_number": 142,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 6
+        }
+      },
+      {
+        "entity_number": 143,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 5
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 144,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 145,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": 6
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 146,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": 5
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 147,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": 5
+        }
+      },
+      {
+        "entity_number": 148,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": 9
+        }
+      },
+      {
+        "entity_number": 149,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": 9
+        }
+      },
+      {
+        "entity_number": 150,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": 7
+        }
+      },
+      {
+        "entity_number": 151,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 8
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 152,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": 8
+        }
+      },
+      {
+        "entity_number": 153,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 7
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 154,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": 8
+        }
+      },
+      {
+        "entity_number": 155,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 8
+        }
+      },
+      {
+        "entity_number": 156,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 7
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 157,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 7
+        }
+      },
+      {
+        "entity_number": 158,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": 9
+        }
+      },
+      {
+        "entity_number": 159,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": 7
+        }
+      },
+      {
+        "entity_number": 160,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": 9
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 161,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": 9
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 162,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": 10
+        }
+      },
+      {
+        "entity_number": 163,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 9
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 164,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": 9
+        }
+      },
+      {
+        "entity_number": 165,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 10
+        }
+      },
+      {
+        "entity_number": 166,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 10
+        }
+      },
+      {
+        "entity_number": 167,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 9
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 168,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 9
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 169,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": 10
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 170,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": 9
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 171,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": 9
+        }
+      },
+      {
+        "entity_number": 172,
+        "name": "lab",
+        "position": {
+          "x": -8,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 173,
+        "name": "lab",
+        "position": {
+          "x": -4,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 174,
+        "name": "small-lamp",
+        "position": {
+          "x": -5,
+          "y": 11
+        }
+      },
+      {
+        "entity_number": 175,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": 11
+        }
+      },
+      {
+        "entity_number": 176,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 12
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 177,
+        "name": "inserter",
+        "position": {
+          "x": -2,
+          "y": 12
+        }
+      },
+      {
+        "entity_number": 178,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 11
+        },
+        "type": "input"
+      },
+      {
+        "direction": 6,
+        "entity_number": 179,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 1,
+          "y": 12
+        }
+      },
+      {
+        "entity_number": 180,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 12
+        }
+      },
+      {
+        "entity_number": 181,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 11
+        },
+        "type": "output"
+      },
+      {
+        "entity_number": 182,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 11
+        }
+      },
+      {
+        "entity_number": 183,
+        "name": "lab",
+        "position": {
+          "x": 4,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 184,
+        "name": "small-lamp",
+        "position": {
+          "x": 5,
+          "y": 11
+        }
+      },
+      {
+        "entity_number": 185,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": 11
+        }
+      },
+      {
+        "entity_number": 186,
+        "name": "lab",
+        "position": {
+          "x": 8,
+          "y": 13
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 187,
+        "name": "fast-inserter",
+        "position": {
+          "x": -6,
+          "y": 13
+        }
+      },
+      {
+        "direction": 2,
+        "entity_number": 188,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -1,
+          "y": 14
+        }
+      },
+      {
+        "entity_number": 189,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 13
+        },
+        "type": "output"
+      },
+      {
+        "direction": 2,
+        "entity_number": 190,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": -2,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 191,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 14
+        }
+      },
+      {
+        "entity_number": 192,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 14
+        }
+      },
+      {
+        "entity_number": 193,
+        "name": "underground-belt",
+        "position": {
+          "x": 1,
+          "y": 13
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 194,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 13
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 195,
+        "name": "inserter",
+        "position": {
+          "x": 2,
+          "y": 14
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 196,
+        "name": "long-handed-inserter",
+        "position": {
+          "x": 2,
+          "y": 13
+        }
+      },
+      {
+        "direction": 6,
+        "entity_number": 197,
+        "name": "fast-inserter",
+        "position": {
+          "x": 6,
+          "y": 13
+        }
+      },
+      {
+        "entity_number": 198,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": -4,
+          "y": 15
+        }
+      },
+      {
+        "entity_number": 199,
+        "name": "transport-belt",
+        "position": {
+          "x": -1,
+          "y": 16
+        }
+      },
+      {
+        "entity_number": 200,
+        "name": "underground-belt",
+        "position": {
+          "x": -1,
+          "y": 15
+        },
+        "type": "input"
+      },
+      {
+        "entity_number": 201,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 16
+        }
+      },
+      {
+        "entity_number": 202,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 16
+        }
+      },
+      {
+        "entity_number": 203,
+        "name": "transport-belt",
+        "position": {
+          "x": 1,
+          "y": 15
+        }
+      },
+      {
+        "entity_number": 204,
+        "name": "transport-belt",
+        "position": {
+          "x": 0,
+          "y": 15
+        }
+      },
+      {
+        "entity_number": 205,
+        "name": "medium-electric-pole",
+        "position": {
+          "x": 4,
+          "y": 15
+        }
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "automation-science-pack",
+                "type": "item"
+              }
+            },
+            {
+              "count": 1,
+              "index": 2,
+              "signal": {
+                "name": "logistic-science-pack",
+                "type": "item"
+              }
+            }
+          ]
+        },
+        "entity_number": 206,
+        "name": "constant-combinator",
+        "position": {
+          "x": -1,
+          "y": 17
+        }
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "production-science-pack",
+                "type": "item"
+              }
+            },
+            {
+              "count": 1,
+              "index": 2,
+              "signal": {
+                "name": "utility-science-pack",
+                "type": "item"
+              }
+            }
+          ]
+        },
+        "entity_number": 207,
+        "name": "constant-combinator",
+        "position": {
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "control_behavior": {
+          "filters": [
+            {
+              "count": 1,
+              "index": 1,
+              "signal": {
+                "name": "military-science-pack",
+                "type": "item"
+              }
+            },
+            {
+              "count": 1,
+              "index": 2,
+              "signal": {
+                "name": "chemical-science-pack",
+                "type": "item"
+              }
+            }
+          ]
+        },
+        "entity_number": 208,
+        "name": "constant-combinator",
+        "position": {
+          "x": 0,
+          "y": 17
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "lab",
+          "type": "item"
+        }
+      }
+    ],
+    "item": "blueprint",
+    "label": "Science",
+    "tiles": [
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -9,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -10,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 8,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 9,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 10,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -18
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -17
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -17
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -13
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -11
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -9
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 0
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": -1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": -1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 0
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 2
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 1
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 1
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 2
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 4
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 3
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 3
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 4
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 6
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 5
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 5
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 6
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 8
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 7
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 7
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 8
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 10
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 9
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 9
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 10
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 12
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 11
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 11
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 12
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 14
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 13
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 13
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 14
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -11,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -9,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -9,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -10,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -10,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -7,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -8,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -8,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -7,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -5,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -6,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -6,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -5,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -3,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -4,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -4,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -3,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -2,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": -1,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -2,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": -1,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 0,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 1,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 0,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 1,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 2,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 3,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 2,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 3,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 4,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 5,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 4,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 5,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 7,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 6,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 6,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 7,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 9,
+          "y": 15
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 8,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 8,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 9,
+          "y": 16
+        }
+      },
+      {
+        "name": "concrete",
+        "position": {
+          "x": 10,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 10,
+          "y": 16
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 15
+        }
+      },
+      {
+        "name": "hazard-concrete-left",
+        "position": {
+          "x": 11,
+          "y": 16
+        }
+      }
+    ],
+    "version": 73016541185
+  }
+}
